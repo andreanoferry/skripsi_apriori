@@ -1,0 +1,895 @@
+{
+	"info": {
+		"_postman_id": "4a698516-a620-4498-81e0-92a1ccfd76ce",
+		"name": "Andreano",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23327717"
+	},
+	"item": [
+		{
+			"name": "Auth",
+			"item": [
+				{
+					"name": "Register",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"username\": \"user1\",\r\n    \"password\": \"password\",\r\n    \"nama\": \"user1\",\r\n    \"alamat\": \"Jl. Merdeka No. 123\",\r\n    \"telp\": \"081234567890\",\r\n    \"role\": \"user\"\r\n}\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{base_url}}/auth/register",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"auth",
+								"register"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Login",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"username\": \"user1\",\r\n    \"password\": \"password\"\r\n}\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{base_url}}/auth/login",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"auth",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Logout",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyODMwOTI1MiwianRpIjoiODU2YzA4MDktMmM0MS00MjZhLTk1ZDMtM2Y5MTRiZWQ4ZWMxIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJ1c2VybmFtZSI6InVzZXIxIiwicm9sZSI6InVzZXIifSwibmJmIjoxNzI4MzA5MjUyLCJleHAiOjE3MjgzMjcyNTJ9.3xRagNRW62XSOG82fGAhEeuLsWifSM3BHOrBrPi7zwQ",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{base_url}}/auth/logout",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"auth",
+								"logout"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Read User Login",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyODM3MzIwNSwianRpIjoiMDVlNzIzNDEtNjU2My00NjcyLWJhYTgtNDRhZDliZjRlYTgwIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6InVzZXIxIiwicm9sZSI6InVzZXIifSwibmJmIjoxNzI4MzczMjA1LCJjc3JmIjoiYjZjMTlmZWItZTMxYi00NjQ0LWExOGYtZjI0ZDQ5N2Q0MjBmIn0.SoMM9WO7KUOWaHjkQLFM5KVTYC1V4ENk57N0iTUWGFI",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{base_url}}/auth/me",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"auth",
+								"me"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Transactions",
+			"item": [
+				{
+					"name": "Add Transaction",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyODM3MzIwNSwianRpIjoiMDVlNzIzNDEtNjU2My00NjcyLWJhYTgtNDRhZDliZjRlYTgwIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6InVzZXIxIiwicm9sZSI6InVzZXIifSwibmJmIjoxNzI4MzczMjA1LCJjc3JmIjoiYjZjMTlmZWItZTMxYi00NjQ0LWExOGYtZjI0ZDQ5N2Q0MjBmIn0.SoMM9WO7KUOWaHjkQLFM5KVTYC1V4ENk57N0iTUWGFI",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"customer\": \"Max\",\r\n    \"treatment\": \"Haircut\",\r\n    \"total\": \"50000\"\r\n}\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{base_url}}/transactions",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"transactions"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Read All Transactions",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyODM3MzIwNSwianRpIjoiMDVlNzIzNDEtNjU2My00NjcyLWJhYTgtNDRhZDliZjRlYTgwIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6InVzZXIxIiwicm9sZSI6InVzZXIifSwibmJmIjoxNzI4MzczMjA1LCJjc3JmIjoiYjZjMTlmZWItZTMxYi00NjQ0LWExOGYtZjI0ZDQ5N2Q0MjBmIn0.SoMM9WO7KUOWaHjkQLFM5KVTYC1V4ENk57N0iTUWGFI",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{base_url}}/transactions",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"transactions"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Read Single Transaction",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyODM3MzIwNSwianRpIjoiMDVlNzIzNDEtNjU2My00NjcyLWJhYTgtNDRhZDliZjRlYTgwIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6InVzZXIxIiwicm9sZSI6InVzZXIifSwibmJmIjoxNzI4MzczMjA1LCJjc3JmIjoiYjZjMTlmZWItZTMxYi00NjQ0LWExOGYtZjI0ZDQ5N2Q0MjBmIn0.SoMM9WO7KUOWaHjkQLFM5KVTYC1V4ENk57N0iTUWGFI",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{base_url}}/transactions/2",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"transactions",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Update Transaction",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyODM3MzIwNSwianRpIjoiMDVlNzIzNDEtNjU2My00NjcyLWJhYTgtNDRhZDliZjRlYTgwIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6InVzZXIxIiwicm9sZSI6InVzZXIifSwibmJmIjoxNzI4MzczMjA1LCJjc3JmIjoiYjZjMTlmZWItZTMxYi00NjQ0LWExOGYtZjI0ZDQ5N2Q0MjBmIn0.SoMM9WO7KUOWaHjkQLFM5KVTYC1V4ENk57N0iTUWGFI",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"customer\": \"Max\",\r\n    \"treatment\": \"Hair Coloring\",\r\n    \"total\": \"120000\"\r\n}\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{base_url}}/transactions/2",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"transactions",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete Transaction",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyODM3MzIwNSwianRpIjoiMDVlNzIzNDEtNjU2My00NjcyLWJhYTgtNDRhZDliZjRlYTgwIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6InVzZXIxIiwicm9sZSI6InVzZXIifSwibmJmIjoxNzI4MzczMjA1LCJjc3JmIjoiYjZjMTlmZWItZTMxYi00NjQ0LWExOGYtZjI0ZDQ5N2Q0MjBmIn0.SoMM9WO7KUOWaHjkQLFM5KVTYC1V4ENk57N0iTUWGFI",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{base_url}}/transactions/2",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"transactions",
+								"2"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Strategy",
+			"item": [
+				{
+					"name": "Add Strategy",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyODM3MzIwNSwianRpIjoiMDVlNzIzNDEtNjU2My00NjcyLWJhYTgtNDRhZDliZjRlYTgwIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6InVzZXIxIiwicm9sZSI6InVzZXIifSwibmJmIjoxNzI4MzczMjA1LCJjc3JmIjoiYjZjMTlmZWItZTMxYi00NjQ0LWExOGYtZjI0ZDQ5N2Q0MjBmIn0.SoMM9WO7KUOWaHjkQLFM5KVTYC1V4ENk57N0iTUWGFI",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"nama\": \"Strategi Kedua\",\r\n    \"keterangan\": \"Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\",\r\n    \"status\": \"non active\"\r\n}\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{base_url}}/strategies",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"strategies"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Read All Strategy",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyODM3MzIwNSwianRpIjoiMDVlNzIzNDEtNjU2My00NjcyLWJhYTgtNDRhZDliZjRlYTgwIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6InVzZXIxIiwicm9sZSI6InVzZXIifSwibmJmIjoxNzI4MzczMjA1LCJjc3JmIjoiYjZjMTlmZWItZTMxYi00NjQ0LWExOGYtZjI0ZDQ5N2Q0MjBmIn0.SoMM9WO7KUOWaHjkQLFM5KVTYC1V4ENk57N0iTUWGFI",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{base_url}}/strategies",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"strategies"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Read Active Strategy",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyODM3MzIwNSwianRpIjoiMDVlNzIzNDEtNjU2My00NjcyLWJhYTgtNDRhZDliZjRlYTgwIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6InVzZXIxIiwicm9sZSI6InVzZXIifSwibmJmIjoxNzI4MzczMjA1LCJjc3JmIjoiYjZjMTlmZWItZTMxYi00NjQ0LWExOGYtZjI0ZDQ5N2Q0MjBmIn0.SoMM9WO7KUOWaHjkQLFM5KVTYC1V4ENk57N0iTUWGFI",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{base_url}}/strategies/active",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"strategies",
+								"active"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Update Strategy",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyODM3MzIwNSwianRpIjoiMDVlNzIzNDEtNjU2My00NjcyLWJhYTgtNDRhZDliZjRlYTgwIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6InVzZXIxIiwicm9sZSI6InVzZXIifSwibmJmIjoxNzI4MzczMjA1LCJjc3JmIjoiYjZjMTlmZWItZTMxYi00NjQ0LWExOGYtZjI0ZDQ5N2Q0MjBmIn0.SoMM9WO7KUOWaHjkQLFM5KVTYC1V4ENk57N0iTUWGFI",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"nama\": \"Strategi Kedua\",\r\n    \"keterangan\": \"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\",\r\n    \"status\": \"active\"\r\n}\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{base_url}}/strategies/2",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"strategies",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Update Status Strategy",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyODM3MzIwNSwianRpIjoiMDVlNzIzNDEtNjU2My00NjcyLWJhYTgtNDRhZDliZjRlYTgwIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6InVzZXIxIiwicm9sZSI6InVzZXIifSwibmJmIjoxNzI4MzczMjA1LCJjc3JmIjoiYjZjMTlmZWItZTMxYi00NjQ0LWExOGYtZjI0ZDQ5N2Q0MjBmIn0.SoMM9WO7KUOWaHjkQLFM5KVTYC1V4ENk57N0iTUWGFI",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"status\": \"non active\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{base_url}}/strategies/status/1",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"strategies",
+								"status",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete Strategy",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyODM3MzIwNSwianRpIjoiMDVlNzIzNDEtNjU2My00NjcyLWJhYTgtNDRhZDliZjRlYTgwIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6InVzZXIxIiwicm9sZSI6InVzZXIifSwibmJmIjoxNzI4MzczMjA1LCJjc3JmIjoiYjZjMTlmZWItZTMxYi00NjQ0LWExOGYtZjI0ZDQ5N2Q0MjBmIn0.SoMM9WO7KUOWaHjkQLFM5KVTYC1V4ENk57N0iTUWGFI",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{base_url}}/strategies/2",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"strategies",
+								"2"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Settings",
+			"item": [
+				{
+					"name": "Add Setting",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyODM3MzIwNSwianRpIjoiMDVlNzIzNDEtNjU2My00NjcyLWJhYTgtNDRhZDliZjRlYTgwIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6InVzZXIxIiwicm9sZSI6InVzZXIifSwibmJmIjoxNzI4MzczMjA1LCJjc3JmIjoiYjZjMTlmZWItZTMxYi00NjQ0LWExOGYtZjI0ZDQ5N2Q0MjBmIn0.SoMM9WO7KUOWaHjkQLFM5KVTYC1V4ENk57N0iTUWGFI",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"min_support\": 0.5,\r\n    \"min_confidence\": 0.5,\r\n    \"durasi\": 30,\r\n    \"tanggal_mulai\": \"2024-10-03\",\r\n    \"tanggal_selesai\": \"2024-10-10\",\r\n    \"status\": \"active\"\r\n}\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{base_url}}/settings",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"settings"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Read All Setting",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyODM3MzIwNSwianRpIjoiMDVlNzIzNDEtNjU2My00NjcyLWJhYTgtNDRhZDliZjRlYTgwIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6InVzZXIxIiwicm9sZSI6InVzZXIifSwibmJmIjoxNzI4MzczMjA1LCJjc3JmIjoiYjZjMTlmZWItZTMxYi00NjQ0LWExOGYtZjI0ZDQ5N2Q0MjBmIn0.SoMM9WO7KUOWaHjkQLFM5KVTYC1V4ENk57N0iTUWGFI",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{base_url}}/settings",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"settings"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Read Active Setting",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyODM3MzIwNSwianRpIjoiMDVlNzIzNDEtNjU2My00NjcyLWJhYTgtNDRhZDliZjRlYTgwIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6InVzZXIxIiwicm9sZSI6InVzZXIifSwibmJmIjoxNzI4MzczMjA1LCJjc3JmIjoiYjZjMTlmZWItZTMxYi00NjQ0LWExOGYtZjI0ZDQ5N2Q0MjBmIn0.SoMM9WO7KUOWaHjkQLFM5KVTYC1V4ENk57N0iTUWGFI",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{base_url}}/settings/active",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"settings",
+								"active"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Update Setting",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyODM3MzIwNSwianRpIjoiMDVlNzIzNDEtNjU2My00NjcyLWJhYTgtNDRhZDliZjRlYTgwIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6InVzZXIxIiwicm9sZSI6InVzZXIifSwibmJmIjoxNzI4MzczMjA1LCJjc3JmIjoiYjZjMTlmZWItZTMxYi00NjQ0LWExOGYtZjI0ZDQ5N2Q0MjBmIn0.SoMM9WO7KUOWaHjkQLFM5KVTYC1V4ENk57N0iTUWGFI",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"min_support\": 0.2,\r\n    \"min_confidence\": 0.6,\r\n    \"durasi\": 12,\r\n    \"tanggal_mulai\": \"2024-10-11\",\r\n    \"tanggal_selesai\": \"2024-10-20\",\r\n    \"status\": \"non active\"\r\n}\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{base_url}}/settings/2",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"settings",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Update Status Setting",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyODM3MzIwNSwianRpIjoiMDVlNzIzNDEtNjU2My00NjcyLWJhYTgtNDRhZDliZjRlYTgwIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6InVzZXIxIiwicm9sZSI6InVzZXIifSwibmJmIjoxNzI4MzczMjA1LCJjc3JmIjoiYjZjMTlmZWItZTMxYi00NjQ0LWExOGYtZjI0ZDQ5N2Q0MjBmIn0.SoMM9WO7KUOWaHjkQLFM5KVTYC1V4ENk57N0iTUWGFI",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"status\": \"non active\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{base_url}}/settings/status/1",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"settings",
+								"status",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete Strategy",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyODM3MzIwNSwianRpIjoiMDVlNzIzNDEtNjU2My00NjcyLWJhYTgtNDRhZDliZjRlYTgwIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6InVzZXIxIiwicm9sZSI6InVzZXIifSwibmJmIjoxNzI4MzczMjA1LCJjc3JmIjoiYjZjMTlmZWItZTMxYi00NjQ0LWExOGYtZjI0ZDQ5N2Q0MjBmIn0.SoMM9WO7KUOWaHjkQLFM5KVTYC1V4ENk57N0iTUWGFI",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{base_url}}/settings/2",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"settings",
+								"2"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "User",
+			"item": [
+				{
+					"name": "Add User",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyODM3MzIwNSwianRpIjoiMDVlNzIzNDEtNjU2My00NjcyLWJhYTgtNDRhZDliZjRlYTgwIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6InVzZXIxIiwicm9sZSI6InVzZXIifSwibmJmIjoxNzI4MzczMjA1LCJjc3JmIjoiYjZjMTlmZWItZTMxYi00NjQ0LWExOGYtZjI0ZDQ5N2Q0MjBmIn0.SoMM9WO7KUOWaHjkQLFM5KVTYC1V4ENk57N0iTUWGFI",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"username\": \"newuser\",\r\n    \"password\": \"password\",\r\n    \"nama\": \"New User\",\r\n    \"alamat\": \"123 Street Name\",\r\n    \"telp\": \"081234567890\",\r\n    \"role\": \"user\"\r\n}\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{base_url}}/users",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"users"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Read All User",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyODM3MzIwNSwianRpIjoiMDVlNzIzNDEtNjU2My00NjcyLWJhYTgtNDRhZDliZjRlYTgwIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6InVzZXIxIiwicm9sZSI6InVzZXIifSwibmJmIjoxNzI4MzczMjA1LCJjc3JmIjoiYjZjMTlmZWItZTMxYi00NjQ0LWExOGYtZjI0ZDQ5N2Q0MjBmIn0.SoMM9WO7KUOWaHjkQLFM5KVTYC1V4ENk57N0iTUWGFI",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{base_url}}/users",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"users"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Read Single User",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyODM3MzIwNSwianRpIjoiMDVlNzIzNDEtNjU2My00NjcyLWJhYTgtNDRhZDliZjRlYTgwIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6InVzZXIxIiwicm9sZSI6InVzZXIifSwibmJmIjoxNzI4MzczMjA1LCJjc3JmIjoiYjZjMTlmZWItZTMxYi00NjQ0LWExOGYtZjI0ZDQ5N2Q0MjBmIn0.SoMM9WO7KUOWaHjkQLFM5KVTYC1V4ENk57N0iTUWGFI",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{base_url}}/users/2",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"users",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Update User",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyODM3MzIwNSwianRpIjoiMDVlNzIzNDEtNjU2My00NjcyLWJhYTgtNDRhZDliZjRlYTgwIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6InVzZXIxIiwicm9sZSI6InVzZXIifSwibmJmIjoxNzI4MzczMjA1LCJjc3JmIjoiYjZjMTlmZWItZTMxYi00NjQ0LWExOGYtZjI0ZDQ5N2Q0MjBmIn0.SoMM9WO7KUOWaHjkQLFM5KVTYC1V4ENk57N0iTUWGFI",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"username\": \"updateduser\",\r\n    \"password\": \"password\",\r\n    \"nama\": \"Updated User\",\r\n    \"alamat\": \"789 Updated Street\",\r\n    \"telp\": \"08212345678\",\r\n    \"role\": \"admin\"\r\n}\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{base_url}}/users/2",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"users",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete User",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyODM3MzIwNSwianRpIjoiMDVlNzIzNDEtNjU2My00NjcyLWJhYTgtNDRhZDliZjRlYTgwIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6InVzZXIxIiwicm9sZSI6InVzZXIifSwibmJmIjoxNzI4MzczMjA1LCJjc3JmIjoiYjZjMTlmZWItZTMxYi00NjQ0LWExOGYtZjI0ZDQ5N2Q0MjBmIn0.SoMM9WO7KUOWaHjkQLFM5KVTYC1V4ENk57N0iTUWGFI",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{base_url}}/users/2",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"users",
+								"2"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Apriori",
+			"item": [
+				{
+					"name": "Change Association",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyODM3MzIwNSwianRpIjoiMDVlNzIzNDEtNjU2My00NjcyLWJhYTgtNDRhZDliZjRlYTgwIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6InVzZXIxIiwicm9sZSI6InVzZXIifSwibmJmIjoxNzI4MzczMjA1LCJjc3JmIjoiYjZjMTlmZWItZTMxYi00NjQ0LWExOGYtZjI0ZDQ5N2Q0MjBmIn0.SoMM9WO7KUOWaHjkQLFM5KVTYC1V4ENk57N0iTUWGFI",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"min_support\": 0.1,\r\n    \"min_confidence\": 0.1,\r\n    \"tanggal_mulai\": \"\",\r\n    \"tanggal_selesai\": \"2023-12-12\"\r\n}\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{base_url}}/association",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"association"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Read All Association",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyODM3MzIwNSwianRpIjoiMDVlNzIzNDEtNjU2My00NjcyLWJhYTgtNDRhZDliZjRlYTgwIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6InVzZXIxIiwicm9sZSI6InVzZXIifSwibmJmIjoxNzI4MzczMjA1LCJjc3JmIjoiYjZjMTlmZWItZTMxYi00NjQ0LWExOGYtZjI0ZDQ5N2Q0MjBmIn0.SoMM9WO7KUOWaHjkQLFM5KVTYC1V4ENk57N0iTUWGFI",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{base_url}}/association",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"association"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "base_url",
+			"value": "http://127.0.0.1:5000",
+			"type": "string"
+		}
+	]
+}

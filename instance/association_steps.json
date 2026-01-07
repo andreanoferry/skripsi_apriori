@@ -1,0 +1,9623 @@
+{
+  "transactions_raw": [
+    {
+      "id": 256,
+      "tanggal": "2023-05-01",
+      "customer": "mbk risa",
+      "treatment": "eyelash + nail art",
+      "total": "140000"
+    },
+    {
+      "id": 257,
+      "tanggal": "2023-05-02",
+      "customer": "hakim kim",
+      "treatment": "nail art + eyelash",
+      "total": "300000"
+    },
+    {
+      "id": 258,
+      "tanggal": "2023-05-03",
+      "customer": "fina fap",
+      "treatment": "nail art + retouch",
+      "total": "170000"
+    },
+    {
+      "id": 259,
+      "tanggal": "2023-05-04",
+      "customer": "ita",
+      "treatment": "nail art + remove + retouch",
+      "total": "200000"
+    },
+    {
+      "id": 260,
+      "tanggal": "2023-05-05",
+      "customer": "cho eccopark",
+      "treatment": "nail art + press on + remove",
+      "total": "85000"
+    },
+    {
+      "id": 261,
+      "tanggal": "2023-05-06",
+      "customer": "isna",
+      "treatment": "nail art + remove + retouch",
+      "total": "80000"
+    },
+    {
+      "id": 262,
+      "tanggal": "2023-05-07",
+      "customer": "angela",
+      "treatment": "nail art + retouch",
+      "total": "80000"
+    },
+    {
+      "id": 263,
+      "tanggal": "2023-05-08",
+      "customer": "maria",
+      "treatment": "hairdo + lashlift + eyelash",
+      "total": "50000"
+    },
+    {
+      "id": 264,
+      "tanggal": "2023-05-09",
+      "customer": "rara",
+      "treatment": "nail art + lashlift",
+      "total": "120000"
+    },
+    {
+      "id": 265,
+      "tanggal": "2023-05-10",
+      "customer": "haerani",
+      "treatment": "nail art + eyelash",
+      "total": "300000"
+    },
+    {
+      "id": 266,
+      "tanggal": "2023-05-11",
+      "customer": "lerystya",
+      "treatment": "make up + hairdo",
+      "total": "110000"
+    },
+    {
+      "id": 267,
+      "tanggal": "2023-05-12",
+      "customer": "miscele",
+      "treatment": "nail art + press on + remove",
+      "total": "175000"
+    },
+    {
+      "id": 268,
+      "tanggal": "2023-05-13",
+      "customer": "saskiaamalia",
+      "treatment": "nail art + press on + remove",
+      "total": "100000"
+    },
+    {
+      "id": 269,
+      "tanggal": "2023-05-14",
+      "customer": "jihan",
+      "treatment": "eyelash + remove + make up",
+      "total": "150000"
+    },
+    {
+      "id": 270,
+      "tanggal": "2023-05-15",
+      "customer": "awa",
+      "treatment": "nail art + retouch",
+      "total": "60000"
+    },
+    {
+      "id": 271,
+      "tanggal": "2023-05-16",
+      "customer": "lashlift",
+      "treatment": "lashlift + retouch + remove",
+      "total": "150000"
+    },
+    {
+      "id": 272,
+      "tanggal": "2023-05-17",
+      "customer": "nail art",
+      "treatment": "nail art + remove + press on",
+      "total": "60000"
+    },
+    {
+      "id": 273,
+      "tanggal": "2023-05-18",
+      "customer": "nail art 4 orang",
+      "treatment": "nail art + remove + press on",
+      "total": "495000"
+    },
+    {
+      "id": 274,
+      "tanggal": "2023-05-19",
+      "customer": "nail art",
+      "treatment": "nail art + retouch",
+      "total": "170000"
+    },
+    {
+      "id": 275,
+      "tanggal": "2023-05-20",
+      "customer": "nail art",
+      "treatment": "nail art + retouch",
+      "total": "75000"
+    },
+    {
+      "id": 276,
+      "tanggal": "2023-06-01",
+      "customer": "sukma",
+      "treatment": "nail art + remove + retouch",
+      "total": "95000"
+    },
+    {
+      "id": 277,
+      "tanggal": "2023-06-01",
+      "customer": "Hakim",
+      "treatment": "nail art + remove + retouch",
+      "total": "200000"
+    },
+    {
+      "id": 278,
+      "tanggal": "2023-06-01",
+      "customer": "Vinza",
+      "treatment": "nail art + retouch",
+      "total": "90000"
+    },
+    {
+      "id": 279,
+      "tanggal": "2023-06-02",
+      "customer": "lidia ",
+      "treatment": "nail art + remove + press on",
+      "total": "120000"
+    },
+    {
+      "id": 280,
+      "tanggal": "2023-06-02",
+      "customer": "maya",
+      "treatment": "nail art + retouch",
+      "total": "200000"
+    },
+    {
+      "id": 281,
+      "tanggal": "2023-06-03",
+      "customer": "dinda ",
+      "treatment": "nail art + retouch",
+      "total": "85000"
+    },
+    {
+      "id": 282,
+      "tanggal": "2023-06-04",
+      "customer": "ahyar",
+      "treatment": "nail art + press on + remove",
+      "total": "80000"
+    },
+    {
+      "id": 283,
+      "tanggal": "2023-06-04",
+      "customer": "cici",
+      "treatment": "nail art + press on + remove",
+      "total": "35000"
+    },
+    {
+      "id": 284,
+      "tanggal": "2023-06-05",
+      "customer": "klarita",
+      "treatment": "nail art + lashlift",
+      "total": "94000"
+    },
+    {
+      "id": 285,
+      "tanggal": "2023-06-07",
+      "customer": "resti",
+      "treatment": "nail art + press on + remove",
+      "total": "75000"
+    },
+    {
+      "id": 286,
+      "tanggal": "2023-06-07",
+      "customer": "klarita",
+      "treatment": "nail art + eyelash",
+      "total": "140000"
+    },
+    {
+      "id": 287,
+      "tanggal": "2023-06-08",
+      "customer": "luci",
+      "treatment": "nail art + retouch",
+      "total": "90000"
+    },
+    {
+      "id": 288,
+      "tanggal": "2023-06-09",
+      "customer": "elsa",
+      "treatment": "nail art + remove + retouch",
+      "total": "84000"
+    },
+    {
+      "id": 289,
+      "tanggal": "2023-06-09",
+      "customer": "mina",
+      "treatment": "nail art + remove + press on",
+      "total": "60000"
+    },
+    {
+      "id": 290,
+      "tanggal": "2023-06-15",
+      "customer": "septina",
+      "treatment": "nail art + press on + remove",
+      "total": "55000"
+    },
+    {
+      "id": 291,
+      "tanggal": "2023-06-16",
+      "customer": "mbk nia",
+      "treatment": "nail art + retouch",
+      "total": "130000"
+    },
+    {
+      "id": 292,
+      "tanggal": "2023-06-17",
+      "customer": "maria",
+      "treatment": "nail art + remove + press on",
+      "total": "66000"
+    },
+    {
+      "id": 293,
+      "tanggal": "2023-06-17",
+      "customer": "dian novita",
+      "treatment": "nail art + remove + press on",
+      "total": "65000"
+    },
+    {
+      "id": 294,
+      "tanggal": "2023-06-18",
+      "customer": "jihan fatin",
+      "treatment": "nail art + lashlift + eyelash",
+      "total": "275000"
+    },
+    {
+      "id": 295,
+      "tanggal": "2023-06-18",
+      "customer": "shinta",
+      "treatment": "nail art + remove + press on",
+      "total": "75000"
+    },
+    {
+      "id": 296,
+      "tanggal": "2023-06-19",
+      "customer": "dwi elsiyani",
+      "treatment": "nail art + press on + remove",
+      "total": "86000"
+    },
+    {
+      "id": 297,
+      "tanggal": "2023-06-21",
+      "customer": "hakim",
+      "treatment": "nail art + remove",
+      "total": "200000"
+    },
+    {
+      "id": 298,
+      "tanggal": "2023-06-21",
+      "customer": "shintia",
+      "treatment": "nail art + remove + press on",
+      "total": "70000"
+    },
+    {
+      "id": 299,
+      "tanggal": "2023-06-22",
+      "customer": "naya",
+      "treatment": "nail art + press on + remove",
+      "total": "95000"
+    },
+    {
+      "id": 300,
+      "tanggal": "2023-06-24",
+      "customer": "galuh",
+      "treatment": "nail art + press on + remove",
+      "total": "40000"
+    },
+    {
+      "id": 301,
+      "tanggal": "2023-06-27",
+      "customer": "cho eco park",
+      "treatment": "nail art + press on + remove",
+      "total": "172000"
+    },
+    {
+      "id": 302,
+      "tanggal": "2023-07-03",
+      "customer": "kak inggar",
+      "treatment": "nail art + remove + retouch",
+      "total": "165000"
+    },
+    {
+      "id": 303,
+      "tanggal": "2023-07-12",
+      "customer": "miscel ",
+      "treatment": "lashlift + hairdo + retouch",
+      "total": "240000"
+    },
+    {
+      "id": 304,
+      "tanggal": "2023-07-13",
+      "customer": "rara",
+      "treatment": "lashlift + hairdo + eyelash",
+      "total": "80000"
+    },
+    {
+      "id": 305,
+      "tanggal": "2023-07-16",
+      "customer": "mbk iggar",
+      "treatment": "make up + hairdo",
+      "total": "100000"
+    },
+    {
+      "id": 306,
+      "tanggal": "2023-07-19",
+      "customer": "miscel ",
+      "treatment": "make up + hairdo",
+      "total": "480000"
+    },
+    {
+      "id": 307,
+      "tanggal": "2023-07-21",
+      "customer": "kanaya",
+      "treatment": "nail art + remove + retouch",
+      "total": "88000"
+    },
+    {
+      "id": 308,
+      "tanggal": "2023-07-21",
+      "customer": "alya",
+      "treatment": "nail art + retouch",
+      "total": "80000"
+    },
+    {
+      "id": 309,
+      "tanggal": "2023-07-28",
+      "customer": "dian",
+      "treatment": "nail art + press on + remove",
+      "total": "77000"
+    },
+    {
+      "id": 310,
+      "tanggal": "2023-07-28",
+      "customer": "maya",
+      "treatment": "nail art + press on + remove",
+      "total": "80000"
+    },
+    {
+      "id": 311,
+      "tanggal": "2023-08-06",
+      "customer": "sintia",
+      "treatment": "nail art + press on + remove",
+      "total": "90000"
+    },
+    {
+      "id": 312,
+      "tanggal": "2023-08-07",
+      "customer": "mbk inggar",
+      "treatment": "nail art + press on + remove",
+      "total": "170000"
+    },
+    {
+      "id": 313,
+      "tanggal": "2023-08-10",
+      "customer": "hakim",
+      "treatment": "nail art + remove + press on",
+      "total": "200000"
+    },
+    {
+      "id": 314,
+      "tanggal": "2023-08-11",
+      "customer": "mbk inggar",
+      "treatment": "nail art + retouch",
+      "total": "50000"
+    },
+    {
+      "id": 315,
+      "tanggal": "2023-09-10",
+      "customer": "mbk inggar",
+      "treatment": "nail art + retouch",
+      "total": "182000"
+    },
+    {
+      "id": 316,
+      "tanggal": "2023-09-12",
+      "customer": "jihan",
+      "treatment": "eyelash + hairdo + remove",
+      "total": "240000"
+    },
+    {
+      "id": 317,
+      "tanggal": "2023-09-13",
+      "customer": "nail",
+      "treatment": "nail art + remove + press on",
+      "total": "65000"
+    },
+    {
+      "id": 318,
+      "tanggal": "2023-09-14",
+      "customer": "putri tasya",
+      "treatment": "nail art + press on + remove",
+      "total": "85000"
+    },
+    {
+      "id": 319,
+      "tanggal": "2023-09-15",
+      "customer": "resa",
+      "treatment": "make up + hairdo + retouch",
+      "total": "100000"
+    },
+    {
+      "id": 320,
+      "tanggal": "2023-09-17",
+      "customer": "jihan",
+      "treatment": "retouch + eyelash + nail art",
+      "total": "120000"
+    },
+    {
+      "id": 321,
+      "tanggal": "2023-09-17",
+      "customer": "inggar",
+      "treatment": "make up + nail art",
+      "total": "160000"
+    },
+    {
+      "id": 322,
+      "tanggal": "2023-09-18",
+      "customer": "make up",
+      "treatment": "make up + hairdo + eyelash",
+      "total": "690000"
+    },
+    {
+      "id": 323,
+      "tanggal": "2023-09-20",
+      "customer": "make up wisuda sttkd",
+      "treatment": "make up + retouch + hairdo",
+      "total": "350000"
+    },
+    {
+      "id": 324,
+      "tanggal": "2023-09-21",
+      "customer": "jihan",
+      "treatment": "nail art + lashlift",
+      "total": "246000"
+    },
+    {
+      "id": 325,
+      "tanggal": "2023-10-01",
+      "customer": "jihan/beti",
+      "treatment": "eyelash + hairdo + retouch",
+      "total": "170000"
+    },
+    {
+      "id": 326,
+      "tanggal": "2023-10-02",
+      "customer": "desty",
+      "treatment": "nail art + press on + remove",
+      "total": "48000"
+    },
+    {
+      "id": 327,
+      "tanggal": "2023-10-06",
+      "customer": "masya",
+      "treatment": "nail art + remove + retouch",
+      "total": "62000"
+    },
+    {
+      "id": 328,
+      "tanggal": "2023-10-07",
+      "customer": "anis",
+      "treatment": "nail art + press on + remove",
+      "total": "31000"
+    },
+    {
+      "id": 329,
+      "tanggal": "2023-10-07",
+      "customer": "amel",
+      "treatment": "nail art + remove + retouch",
+      "total": "65000"
+    },
+    {
+      "id": 330,
+      "tanggal": "2023-10-11",
+      "customer": "mbk emi",
+      "treatment": "eyelash + retouch + make up",
+      "total": "150000"
+    },
+    {
+      "id": 331,
+      "tanggal": "2023-10-16",
+      "customer": "farida",
+      "treatment": "nail art + press on + remove",
+      "total": "175000"
+    },
+    {
+      "id": 332,
+      "tanggal": "2023-10-18",
+      "customer": "make up among tamu",
+      "treatment": "make up + retouch + lashlift",
+      "total": "500000"
+    },
+    {
+      "id": 333,
+      "tanggal": "2023-10-09",
+      "customer": "septiana",
+      "treatment": "nail art + press on + remove",
+      "total": "145000"
+    },
+    {
+      "id": 334,
+      "tanggal": "2023-10-10",
+      "customer": "bengkel",
+      "treatment": "nail art + remove",
+      "total": "10000"
+    },
+    {
+      "id": 335,
+      "tanggal": "2023-10-11",
+      "customer": "dwi elsi",
+      "treatment": "nail art + retouch",
+      "total": "71000"
+    },
+    {
+      "id": 336,
+      "tanggal": "2023-10-12",
+      "customer": "feni",
+      "treatment": "nail art + remove + press on",
+      "total": "99000"
+    },
+    {
+      "id": 337,
+      "tanggal": "2023-11-01",
+      "customer": "temen risma",
+      "treatment": "nail art + remove + retouch",
+      "total": "39000"
+    },
+    {
+      "id": 338,
+      "tanggal": "2023-11-04",
+      "customer": "fina fap",
+      "treatment": "nail art + retouch",
+      "total": "200000"
+    },
+    {
+      "id": 339,
+      "tanggal": "2023-11-04",
+      "customer": "cut",
+      "treatment": "nail art + press on + remove",
+      "total": "60000"
+    },
+    {
+      "id": 340,
+      "tanggal": "2023-11-06",
+      "customer": "nail junior",
+      "treatment": "nail art + press on + remove",
+      "total": "40000"
+    },
+    {
+      "id": 341,
+      "tanggal": "2023-11-08",
+      "customer": "nail metal",
+      "treatment": "nail art + retouch",
+      "total": "129000"
+    },
+    {
+      "id": 342,
+      "tanggal": "2023-11-11",
+      "customer": "deris",
+      "treatment": "nail art + remove + press on",
+      "total": "39000"
+    },
+    {
+      "id": 343,
+      "tanggal": "2023-11-12",
+      "customer": "wedding",
+      "treatment": "nail art + press on + remove",
+      "total": "185000"
+    },
+    {
+      "id": 344,
+      "tanggal": "2023-11-13",
+      "customer": "mbk emi",
+      "treatment": "eyelash + nail art",
+      "total": "280000"
+    },
+    {
+      "id": 345,
+      "tanggal": "2023-11-17",
+      "customer": "nail",
+      "treatment": "nail art + retouch",
+      "total": "39000"
+    },
+    {
+      "id": 346,
+      "tanggal": "2023-11-19",
+      "customer": "nail",
+      "treatment": "nail art + remove + press on",
+      "total": "69000"
+    },
+    {
+      "id": 347,
+      "tanggal": "2023-11-20",
+      "customer": "dita",
+      "treatment": "nail art + press on + remove",
+      "total": "99000"
+    },
+    {
+      "id": 348,
+      "tanggal": "2023-11-21",
+      "customer": "wedding",
+      "treatment": "nail art + remove + press on",
+      "total": "185000"
+    },
+    {
+      "id": 349,
+      "tanggal": "2023-11-24",
+      "customer": "nail",
+      "treatment": "nail art + retouch",
+      "total": "65000"
+    },
+    {
+      "id": 350,
+      "tanggal": "2023-11-25",
+      "customer": "nail junior member",
+      "treatment": "nail art + press on + remove",
+      "total": "49000"
+    },
+    {
+      "id": 351,
+      "tanggal": "2023-11-26",
+      "customer": "fap fina",
+      "treatment": "nail art + remove + retouch",
+      "total": "100000"
+    },
+    {
+      "id": 352,
+      "tanggal": "2023-11-28",
+      "customer": "tatan & member",
+      "treatment": "nail art + press on + remove",
+      "total": "80000"
+    },
+    {
+      "id": 353,
+      "tanggal": "2023-11-28",
+      "customer": "alfa & member",
+      "treatment": "nail art + remove + retouch",
+      "total": "119000"
+    },
+    {
+      "id": 354,
+      "tanggal": "2023-11-29",
+      "customer": "deris member",
+      "treatment": "nail art + retouch",
+      "total": "59000"
+    },
+    {
+      "id": 355,
+      "tanggal": "2023-12-02",
+      "customer": "jihan",
+      "treatment": "nail art + press on + remove",
+      "total": "91000"
+    },
+    {
+      "id": 356,
+      "tanggal": "2023-12-04",
+      "customer": "airin",
+      "treatment": "nail art + retouch",
+      "total": "130000"
+    },
+    {
+      "id": 357,
+      "tanggal": "2023-12-06",
+      "customer": "feby",
+      "treatment": "nail art + retouch",
+      "total": "100000"
+    },
+    {
+      "id": 358,
+      "tanggal": "2023-12-07",
+      "customer": "lisa",
+      "treatment": "nail art + retouch",
+      "total": "70000"
+    },
+    {
+      "id": 359,
+      "tanggal": "2023-12-07",
+      "customer": "maisa",
+      "treatment": "nail art + remove + retouch",
+      "total": "115000"
+    },
+    {
+      "id": 360,
+      "tanggal": "2023-12-07",
+      "customer": "anisa",
+      "treatment": "nail art + press on + remove",
+      "total": "119000"
+    },
+    {
+      "id": 361,
+      "tanggal": "2023-12-07",
+      "customer": "astri",
+      "treatment": "remove + eyelash + retouch",
+      "total": "20000"
+    },
+    {
+      "id": 362,
+      "tanggal": "2023-12-08",
+      "customer": "irma",
+      "treatment": "nail art + remove + retouch",
+      "total": "123000"
+    },
+    {
+      "id": 363,
+      "tanggal": "2023-12-08",
+      "customer": "zahra",
+      "treatment": "nail art + retouch",
+      "total": "140000"
+    },
+    {
+      "id": 364,
+      "tanggal": "2023-12-08",
+      "customer": "seelli",
+      "treatment": "nail art + press on + remove",
+      "total": "60000"
+    },
+    {
+      "id": 365,
+      "tanggal": "2023-12-09",
+      "customer": "rahma",
+      "treatment": "nail art + press on + remove",
+      "total": "97000"
+    },
+    {
+      "id": 366,
+      "tanggal": "2023-12-09",
+      "customer": "nafda",
+      "treatment": "nail art + retouch",
+      "total": "95000"
+    },
+    {
+      "id": 367,
+      "tanggal": "2023-12-11",
+      "customer": "tata",
+      "treatment": "nail art + retouch",
+      "total": "70000"
+    },
+    {
+      "id": 368,
+      "tanggal": "2023-12-11",
+      "customer": "clara",
+      "treatment": "nail art + remove + retouch",
+      "total": "184000"
+    },
+    {
+      "id": 369,
+      "tanggal": "2023-12-12",
+      "customer": "anggik",
+      "treatment": "nail art + press on + remove",
+      "total": "71000"
+    },
+    {
+      "id": 370,
+      "tanggal": "2023-12-12",
+      "customer": "nadia",
+      "treatment": "nail art + eyelash",
+      "total": "170000"
+    },
+    {
+      "id": 371,
+      "tanggal": "2023-12-13",
+      "customer": "helsa",
+      "treatment": "nail art + press on + remove",
+      "total": "63000"
+    },
+    {
+      "id": 372,
+      "tanggal": "2023-12-13",
+      "customer": "nona",
+      "treatment": "retouch + lashlift + hairdo",
+      "total": "10000"
+    },
+    {
+      "id": 373,
+      "tanggal": "2023-12-14",
+      "customer": "ika",
+      "treatment": "nail art + retouch",
+      "total": "190000"
+    },
+    {
+      "id": 374,
+      "tanggal": "2023-12-14",
+      "customer": "intan",
+      "treatment": "nail art + eyelash",
+      "total": "312000"
+    },
+    {
+      "id": 375,
+      "tanggal": "2023-12-14",
+      "customer": "yezika",
+      "treatment": "nail art + retouch",
+      "total": "79000"
+    },
+    {
+      "id": 376,
+      "tanggal": "2023-12-15",
+      "customer": "linda",
+      "treatment": "nail art + remove",
+      "total": "53000"
+    },
+    {
+      "id": 377,
+      "tanggal": "2023-12-15",
+      "customer": "widya",
+      "treatment": "eyelash + hairdo + lashlift",
+      "total": "210000"
+    },
+    {
+      "id": 378,
+      "tanggal": "2023-12-15",
+      "customer": "venti",
+      "treatment": "nail art + retouch",
+      "total": "41000"
+    },
+    {
+      "id": 379,
+      "tanggal": "2023-12-15",
+      "customer": "wayan",
+      "treatment": "nail art + press on + remove",
+      "total": "61000"
+    },
+    {
+      "id": 380,
+      "tanggal": "2023-12-16",
+      "customer": "infanta",
+      "treatment": "nail art + retouch",
+      "total": "140000"
+    },
+    {
+      "id": 381,
+      "tanggal": "2023-12-17",
+      "customer": "vin",
+      "treatment": "nail art + press on + remove",
+      "total": "170000"
+    },
+    {
+      "id": 382,
+      "tanggal": "2023-12-17",
+      "customer": "dian",
+      "treatment": "nail art + remove + press on",
+      "total": "120000"
+    },
+    {
+      "id": 383,
+      "tanggal": "2023-12-18",
+      "customer": "putri",
+      "treatment": "nail art + remove + press on",
+      "total": "150000"
+    },
+    {
+      "id": 384,
+      "tanggal": "2023-12-18",
+      "customer": "maya",
+      "treatment": "nail art + remove + retouch",
+      "total": "140000"
+    },
+    {
+      "id": 385,
+      "tanggal": "2023-12-19",
+      "customer": "evi",
+      "treatment": "nail art + press on + remove",
+      "total": "77000"
+    },
+    {
+      "id": 386,
+      "tanggal": "2023-12-19",
+      "customer": "vegha",
+      "treatment": "nail art + press on + remove",
+      "total": "75000"
+    },
+    {
+      "id": 387,
+      "tanggal": "2023-12-19",
+      "customer": "lia",
+      "treatment": "nail art + retouch",
+      "total": "213000"
+    },
+    {
+      "id": 388,
+      "tanggal": "2023-12-20",
+      "customer": "rizka",
+      "treatment": "nail art + retouch",
+      "total": "174000"
+    },
+    {
+      "id": 389,
+      "tanggal": "2023-12-20",
+      "customer": "rafi",
+      "treatment": "nail art + press on + remove",
+      "total": "70000"
+    },
+    {
+      "id": 390,
+      "tanggal": "2023-12-20",
+      "customer": "repta",
+      "treatment": "nail art + press on + remove",
+      "total": "85000"
+    },
+    {
+      "id": 391,
+      "tanggal": "2023-12-20",
+      "customer": "stefani",
+      "treatment": "nail art + press on + remove",
+      "total": "90000"
+    },
+    {
+      "id": 392,
+      "tanggal": "2023-12-21",
+      "customer": "rizka",
+      "treatment": "nail art + press on + remove",
+      "total": "111000"
+    },
+    {
+      "id": 393,
+      "tanggal": "2023-12-21",
+      "customer": "kesiaa",
+      "treatment": "nail art + retouch",
+      "total": "150000"
+    },
+    {
+      "id": 394,
+      "tanggal": "2023-12-22",
+      "customer": "anisa",
+      "treatment": "nail art + remove",
+      "total": "43000"
+    },
+    {
+      "id": 395,
+      "tanggal": "2023-12-22",
+      "customer": "zilka",
+      "treatment": "nail art + retouch",
+      "total": "94000"
+    },
+    {
+      "id": 396,
+      "tanggal": "2023-12-22",
+      "customer": "afriani",
+      "treatment": "nail art + press on + remove",
+      "total": "60000"
+    },
+    {
+      "id": 397,
+      "tanggal": "2023-12-23",
+      "customer": "adel",
+      "treatment": "nail art + remove",
+      "total": "207000"
+    },
+    {
+      "id": 398,
+      "tanggal": "2023-12-23",
+      "customer": "carolin",
+      "treatment": "nail art + press on + remove",
+      "total": "45000"
+    },
+    {
+      "id": 399,
+      "tanggal": "2023-12-23",
+      "customer": "putrri",
+      "treatment": "nail art + retouch",
+      "total": "318000"
+    },
+    {
+      "id": 400,
+      "tanggal": "2023-12-23",
+      "customer": "ulfa",
+      "treatment": "nail art + press on + remove",
+      "total": "103000"
+    },
+    {
+      "id": 401,
+      "tanggal": "2023-12-24",
+      "customer": "winda",
+      "treatment": "make up + eyelash + remove",
+      "total": "100000"
+    },
+    {
+      "id": 402,
+      "tanggal": "2023-12-24",
+      "customer": "anisa",
+      "treatment": "eyelash + retouch + lashlift",
+      "total": "90000"
+    },
+    {
+      "id": 403,
+      "tanggal": "2023-12-24",
+      "customer": "grace",
+      "treatment": "eyelash + make up + remove",
+      "total": "100000"
+    },
+    {
+      "id": 404,
+      "tanggal": "2023-12-26",
+      "customer": "destri",
+      "treatment": "nail art + press on + remove",
+      "total": "147000"
+    },
+    {
+      "id": 405,
+      "tanggal": "2023-12-26",
+      "customer": "rika",
+      "treatment": "nail art + retouch",
+      "total": "105000"
+    },
+    {
+      "id": 406,
+      "tanggal": "2023-12-26",
+      "customer": "alhamidah",
+      "treatment": "nail art + retouch",
+      "total": "185000"
+    },
+    {
+      "id": 407,
+      "tanggal": "2023-12-27",
+      "customer": "agnes",
+      "treatment": "nail art + press on + remove",
+      "total": "73500"
+    },
+    {
+      "id": 408,
+      "tanggal": "2023-12-27",
+      "customer": "hana",
+      "treatment": "nail art + remove + press on",
+      "total": "80500"
+    },
+    {
+      "id": 409,
+      "tanggal": "2023-12-27",
+      "customer": "anisa",
+      "treatment": "nail art + remove + retouch",
+      "total": "165000"
+    },
+    {
+      "id": 410,
+      "tanggal": "2023-12-28",
+      "customer": "teresia",
+      "treatment": "nail art + retouch",
+      "total": "91000"
+    },
+    {
+      "id": 411,
+      "tanggal": "2023-12-29",
+      "customer": "raina",
+      "treatment": "nail art + press on + remove",
+      "total": "63000"
+    },
+    {
+      "id": 412,
+      "tanggal": "2023-12-29",
+      "customer": "yusri",
+      "treatment": "nail art + press on + remove",
+      "total": "89000"
+    },
+    {
+      "id": 413,
+      "tanggal": "2023-12-29",
+      "customer": "el",
+      "treatment": "nail art + remove + press on",
+      "total": "44000"
+    },
+    {
+      "id": 414,
+      "tanggal": "2023-12-30",
+      "customer": "rini",
+      "treatment": "nail art + remove + press on",
+      "total": "111000"
+    },
+    {
+      "id": 415,
+      "tanggal": "2023-12-30",
+      "customer": "ineke",
+      "treatment": "nail art + retouch",
+      "total": "70500"
+    },
+    {
+      "id": 416,
+      "tanggal": "2024-01-02",
+      "customer": "linda",
+      "treatment": "nail art + retouch",
+      "total": "163000"
+    },
+    {
+      "id": 417,
+      "tanggal": "2024-01-02",
+      "customer": "indah",
+      "treatment": "nail art + press on + remove",
+      "total": "70000"
+    },
+    {
+      "id": 418,
+      "tanggal": "2024-01-02",
+      "customer": "stefhani",
+      "treatment": "nail art + remove + press on",
+      "total": "45000"
+    },
+    {
+      "id": 419,
+      "tanggal": "2024-01-02",
+      "customer": "fina ",
+      "treatment": "nail art + press on + remove",
+      "total": "180000"
+    },
+    {
+      "id": 420,
+      "tanggal": "2024-01-03",
+      "customer": "indri",
+      "treatment": "nail art + remove + retouch",
+      "total": "126000"
+    },
+    {
+      "id": 421,
+      "tanggal": "2024-01-03",
+      "customer": "cintya",
+      "treatment": "nail art + remove + retouch",
+      "total": "35000"
+    },
+    {
+      "id": 422,
+      "tanggal": "2024-01-04",
+      "customer": "bagas",
+      "treatment": "nail art + retouch",
+      "total": "99000"
+    },
+    {
+      "id": 423,
+      "tanggal": "2024-01-05",
+      "customer": "farida",
+      "treatment": "nail art + press on + remove",
+      "total": "220000"
+    },
+    {
+      "id": 424,
+      "tanggal": "2024-01-06",
+      "customer": "rahma",
+      "treatment": "nail art + press on + remove",
+      "total": "172000"
+    },
+    {
+      "id": 425,
+      "tanggal": "2024-01-06",
+      "customer": "jihan",
+      "treatment": "nail art + retouch",
+      "total": "53000"
+    },
+    {
+      "id": 426,
+      "tanggal": "2024-01-08",
+      "customer": "lia",
+      "treatment": "nail art + remove + press on",
+      "total": "95000"
+    },
+    {
+      "id": 427,
+      "tanggal": "2024-01-10",
+      "customer": "zahra",
+      "treatment": "nail art + remove + press on",
+      "total": "110000"
+    },
+    {
+      "id": 428,
+      "tanggal": "2024-01-15",
+      "customer": "stefani",
+      "treatment": "nail art + press on + remove",
+      "total": "99000"
+    },
+    {
+      "id": 429,
+      "tanggal": "2024-01-16",
+      "customer": "tatan",
+      "treatment": "nail art + press on + remove",
+      "total": "89000"
+    },
+    {
+      "id": 430,
+      "tanggal": "2024-01-18",
+      "customer": "sakwa",
+      "treatment": "nail art + remove + press on",
+      "total": "65000"
+    },
+    {
+      "id": 431,
+      "tanggal": "2024-01-19",
+      "customer": "dita",
+      "treatment": "nail art + remove + retouch",
+      "total": "135000"
+    },
+    {
+      "id": 432,
+      "tanggal": "2024-01-20",
+      "customer": "deris",
+      "treatment": "nail art + retouch",
+      "total": "90000"
+    },
+    {
+      "id": 433,
+      "tanggal": "2024-01-22",
+      "customer": "erika",
+      "treatment": "nail art + retouch",
+      "total": "61000"
+    },
+    {
+      "id": 434,
+      "tanggal": "2024-01-22",
+      "customer": "ira",
+      "treatment": "nail art + retouch",
+      "total": "181000"
+    },
+    {
+      "id": 435,
+      "tanggal": "2024-01-24",
+      "customer": "nessa",
+      "treatment": "nail art + remove + retouch",
+      "total": "108000"
+    },
+    {
+      "id": 436,
+      "tanggal": "2024-01-24",
+      "customer": "tatan",
+      "treatment": "nail art + retouch",
+      "total": "81000"
+    },
+    {
+      "id": 437,
+      "tanggal": "2024-01-24",
+      "customer": "widi",
+      "treatment": "nail art + press on + remove",
+      "total": "103000"
+    },
+    {
+      "id": 438,
+      "tanggal": "2024-01-24",
+      "customer": "dina",
+      "treatment": "nail art + press on + remove",
+      "total": "95000"
+    },
+    {
+      "id": 439,
+      "tanggal": "2024-01-25",
+      "customer": "maya",
+      "treatment": "nail art + retouch",
+      "total": "136000"
+    },
+    {
+      "id": 440,
+      "tanggal": "2024-01-25",
+      "customer": "helsa",
+      "treatment": "nail art + retouch",
+      "total": "76000"
+    },
+    {
+      "id": 441,
+      "tanggal": "2024-01-25",
+      "customer": "widi",
+      "treatment": "nail art + press on + remove",
+      "total": "110000"
+    },
+    {
+      "id": 442,
+      "tanggal": "2024-01-26",
+      "customer": "tatan",
+      "treatment": "nail art + retouch",
+      "total": "60000"
+    },
+    {
+      "id": 443,
+      "tanggal": "2024-01-26",
+      "customer": "sri",
+      "treatment": "nail art + retouch",
+      "total": "131000"
+    },
+    {
+      "id": 444,
+      "tanggal": "2024-01-30",
+      "customer": "iin",
+      "treatment": "nail art + press on + remove",
+      "total": "115000"
+    },
+    {
+      "id": 445,
+      "tanggal": "2024-02-03",
+      "customer": "shea",
+      "treatment": "eyelash + hairdo + remove",
+      "total": "95000"
+    },
+    {
+      "id": 446,
+      "tanggal": "2024-04-02",
+      "customer": "jihan",
+      "treatment": "remove + eyelash + hairdo",
+      "total": "131000"
+    },
+    {
+      "id": 447,
+      "tanggal": "2024-02-09",
+      "customer": "zahrra",
+      "treatment": "eyelash + hairdo + remove",
+      "total": "81000"
+    },
+    {
+      "id": 448,
+      "tanggal": "2024-02-09",
+      "customer": "ecy",
+      "treatment": "remove + eyelash + make up",
+      "total": "110000"
+    },
+    {
+      "id": 449,
+      "tanggal": "2024-02-10",
+      "customer": "shafie",
+      "treatment": "lashlift + remove + make up",
+      "total": "103500"
+    },
+    {
+      "id": 450,
+      "tanggal": "2024-02-16",
+      "customer": "desi",
+      "treatment": "hairdo + retouch + eyelash",
+      "total": "49000"
+    },
+    {
+      "id": 451,
+      "tanggal": "2024-02-16",
+      "customer": "mida",
+      "treatment": "retouch + lashlift + eyelash",
+      "total": "134000"
+    },
+    {
+      "id": 452,
+      "tanggal": "2024-02-18",
+      "customer": "wulan",
+      "treatment": "hairdo + eyelash + remove",
+      "total": "110000"
+    },
+    {
+      "id": 453,
+      "tanggal": "2024-02-18",
+      "customer": "tia",
+      "treatment": "make up + eyelash + remove",
+      "total": "85000"
+    },
+    {
+      "id": 454,
+      "tanggal": "2024-02-22",
+      "customer": "keisa",
+      "treatment": "make up + remove + retouch",
+      "total": "194000"
+    },
+    {
+      "id": 455,
+      "tanggal": "2024-02-23",
+      "customer": "yuliana",
+      "treatment": "eyelash + remove + retouch",
+      "total": "85000"
+    },
+    {
+      "id": 456,
+      "tanggal": "2024-02-23",
+      "customer": "tya",
+      "treatment": "lashlift + hairdo + remove",
+      "total": "190000"
+    },
+    {
+      "id": 457,
+      "tanggal": "2024-02-24",
+      "customer": "ratu",
+      "treatment": "hairdo + make up + retouch",
+      "total": "209000"
+    },
+    {
+      "id": 458,
+      "tanggal": "2024-02-26",
+      "customer": "chata",
+      "treatment": "make up + hairdo + lashlift",
+      "total": "45000"
+    },
+    {
+      "id": 459,
+      "tanggal": "2024-02-01",
+      "customer": "desi",
+      "treatment": "make up + remove + eyelash",
+      "total": "81000"
+    },
+    {
+      "id": 460,
+      "tanggal": "2024-02-02",
+      "customer": "sri",
+      "treatment": "nail art + eyelash",
+      "total": "270000"
+    },
+    {
+      "id": 461,
+      "tanggal": "2024-02-03",
+      "customer": "fina",
+      "treatment": "make up + lashlift + remove",
+      "total": "205000"
+    },
+    {
+      "id": 462,
+      "tanggal": "2024-02-06",
+      "customer": "caca",
+      "treatment": "retouch + eyelash + lashlift",
+      "total": "129000"
+    },
+    {
+      "id": 463,
+      "tanggal": "2024-02-09",
+      "customer": "mara",
+      "treatment": "eyelash + make up + remove",
+      "total": "69000"
+    },
+    {
+      "id": 464,
+      "tanggal": "2024-02-07",
+      "customer": "anisa",
+      "treatment": "retouch + eyelash + make up",
+      "total": "119000"
+    },
+    {
+      "id": 465,
+      "tanggal": "2024-02-13",
+      "customer": "sendu/dian",
+      "treatment": "hairdo + retouch + make up",
+      "total": "107000"
+    },
+    {
+      "id": 466,
+      "tanggal": "2024-02-13",
+      "customer": "mey",
+      "treatment": "hairdo + eyelash + make up",
+      "total": "44100"
+    },
+    {
+      "id": 467,
+      "tanggal": "2024-02-13",
+      "customer": "rahmina",
+      "treatment": "hairdo + retouch + make up",
+      "total": "44100"
+    },
+    {
+      "id": 468,
+      "tanggal": "2024-02-15",
+      "customer": "ayu",
+      "treatment": "make up + eyelash + retouch",
+      "total": "85000"
+    },
+    {
+      "id": 469,
+      "tanggal": "2024-02-17",
+      "customer": "wayan",
+      "treatment": "make up + hairdo + remove",
+      "total": "60000"
+    },
+    {
+      "id": 470,
+      "tanggal": "2024-02-17",
+      "customer": "deris",
+      "treatment": "lashlift + hairdo + eyelash",
+      "total": "30000"
+    },
+    {
+      "id": 471,
+      "tanggal": "2024-02-18",
+      "customer": "deris",
+      "treatment": "nail art + lashlift",
+      "total": "105000"
+    },
+    {
+      "id": 472,
+      "tanggal": "2024-02-19",
+      "customer": "dayu",
+      "treatment": "retouch + make up + lashlift",
+      "total": "15000"
+    },
+    {
+      "id": 473,
+      "tanggal": "2024-02-21",
+      "customer": "jihan",
+      "treatment": "make up + lashlift + eyelash",
+      "total": "90000"
+    },
+    {
+      "id": 474,
+      "tanggal": "2024-02-22",
+      "customer": "anisa",
+      "treatment": "remove + make up + retouch",
+      "total": "35000"
+    },
+    {
+      "id": 475,
+      "tanggal": "2024-02-22",
+      "customer": "mey",
+      "treatment": "remove + eyelash + hairdo",
+      "total": "45000"
+    },
+    {
+      "id": 476,
+      "tanggal": "2024-02-22",
+      "customer": "sinta",
+      "treatment": "remove + eyelash + hairdo",
+      "total": "61000"
+    },
+    {
+      "id": 477,
+      "tanggal": "2024-02-23",
+      "customer": "mely",
+      "treatment": "remove + retouch + hairdo",
+      "total": "160000"
+    },
+    {
+      "id": 478,
+      "tanggal": "2024-02-23",
+      "customer": "deli",
+      "treatment": "hairdo + eyelash + make up",
+      "total": "150000"
+    },
+    {
+      "id": 479,
+      "tanggal": "2024-02-23",
+      "customer": "diyana",
+      "treatment": "lashlift + eyelash + hairdo",
+      "total": "150000"
+    },
+    {
+      "id": 480,
+      "tanggal": "2024-02-26",
+      "customer": "syifa",
+      "treatment": "remove + lashlift + eyelash",
+      "total": "75000"
+    },
+    {
+      "id": 481,
+      "tanggal": "2024-02-28",
+      "customer": "diyana",
+      "treatment": "remove + make up + retouch",
+      "total": "70000"
+    },
+    {
+      "id": 482,
+      "tanggal": "2024-03-01",
+      "customer": "indah",
+      "treatment": "remove + retouch + eyelash",
+      "total": "99000"
+    },
+    {
+      "id": 483,
+      "tanggal": "2024-03-04",
+      "customer": "tia",
+      "treatment": "make up + remove + hairdo",
+      "total": "140000"
+    },
+    {
+      "id": 484,
+      "tanggal": "2024-03-05",
+      "customer": "feby",
+      "treatment": "remove + make up + lashlift",
+      "total": "20000"
+    },
+    {
+      "id": 485,
+      "tanggal": "2024-03-05",
+      "customer": "elsy",
+      "treatment": "eyelash + retouch + lashlift",
+      "total": "110000"
+    },
+    {
+      "id": 486,
+      "tanggal": "2024-03-08",
+      "customer": "tika",
+      "treatment": "lashlift + make up + hairdo",
+      "total": "85000"
+    },
+    {
+      "id": 487,
+      "tanggal": "2024-03-10",
+      "customer": "rere",
+      "treatment": "remove + hairdo + lashlift",
+      "total": "61000"
+    },
+    {
+      "id": 488,
+      "tanggal": "2024-03-10",
+      "customer": "hamida",
+      "treatment": "hairdo + remove + lashlift",
+      "total": "65000"
+    },
+    {
+      "id": 489,
+      "tanggal": "2024-03-10",
+      "customer": "lucky",
+      "treatment": "remove + make up + eyelash",
+      "total": "132000"
+    },
+    {
+      "id": 490,
+      "tanggal": "2024-03-12",
+      "customer": "anisa",
+      "treatment": "remove + eyelash + lashlift",
+      "total": "30000"
+    },
+    {
+      "id": 491,
+      "tanggal": "2024-03-14",
+      "customer": "tia",
+      "treatment": "retouch + hairdo + remove",
+      "total": "70000"
+    },
+    {
+      "id": 492,
+      "tanggal": "2024-03-20",
+      "customer": "erika",
+      "treatment": "lashlift + remove + hairdo",
+      "total": "75000"
+    },
+    {
+      "id": 493,
+      "tanggal": "2024-03-21",
+      "customer": "destri",
+      "treatment": "eyelash + remove + hairdo",
+      "total": "140000"
+    },
+    {
+      "id": 494,
+      "tanggal": "2024-03-21",
+      "customer": "iin",
+      "treatment": "remove + lashlift + eyelash",
+      "total": "16000"
+    },
+    {
+      "id": 495,
+      "tanggal": "2024-03-21",
+      "customer": "agnes",
+      "treatment": "hairdo + make up + remove",
+      "total": "85000"
+    },
+    {
+      "id": 496,
+      "tanggal": "2024-03-23",
+      "customer": "pedra",
+      "treatment": "hairdo + lashlift + remove",
+      "total": "160000"
+    },
+    {
+      "id": 497,
+      "tanggal": "2024-03-26",
+      "customer": "indah",
+      "treatment": "make up + retouch + hairdo",
+      "total": "75000"
+    },
+    {
+      "id": 498,
+      "tanggal": "2024-03-26",
+      "customer": "lisa",
+      "treatment": "make up + eyelash + lashlift",
+      "total": "145000"
+    },
+    {
+      "id": 499,
+      "tanggal": "2024-03-29",
+      "customer": "vinensia",
+      "treatment": "retouch + eyelash + remove",
+      "total": "166000"
+    },
+    {
+      "id": 500,
+      "tanggal": "2024-03-30",
+      "customer": "karin",
+      "treatment": "remove + lashlift + retouch",
+      "total": "67000"
+    },
+    {
+      "id": 501,
+      "tanggal": "2024-03-30",
+      "customer": "chata",
+      "treatment": "hairdo + make up + lashlift",
+      "total": "52000"
+    },
+    {
+      "id": 502,
+      "tanggal": "2024-03-01",
+      "customer": "ayu",
+      "treatment": "lashlift + eyelash + remove",
+      "total": "161000"
+    },
+    {
+      "id": 503,
+      "tanggal": "2024-03-01",
+      "customer": "neta",
+      "treatment": "lashlift + hairdo + retouch",
+      "total": "70000"
+    },
+    {
+      "id": 504,
+      "tanggal": "2024-03-01",
+      "customer": "devina",
+      "treatment": "remove + retouch + make up",
+      "total": "76000"
+    },
+    {
+      "id": 505,
+      "tanggal": "2024-03-04",
+      "customer": "gea",
+      "treatment": "make up + eyelash + remove",
+      "total": "67000"
+    },
+    {
+      "id": 506,
+      "tanggal": "2024-03-07",
+      "customer": "echa",
+      "treatment": "make up + eyelash + retouch",
+      "total": "60000"
+    },
+    {
+      "id": 507,
+      "tanggal": "2024-03-15",
+      "customer": "eve",
+      "treatment": "eyelash + hairdo + lashlift",
+      "total": "69000"
+    },
+    {
+      "id": 508,
+      "tanggal": "2024-03-16",
+      "customer": "deris",
+      "treatment": "remove + lashlift + make up",
+      "total": "69000"
+    },
+    {
+      "id": 509,
+      "tanggal": "2024-03-17",
+      "customer": "jelita",
+      "treatment": "make up + lashlift + eyelash",
+      "total": "74000"
+    },
+    {
+      "id": 510,
+      "tanggal": "2024-03-18",
+      "customer": "chealse",
+      "treatment": "make up + lashlift + retouch",
+      "total": "93500"
+    },
+    {
+      "id": 511,
+      "tanggal": "2024-03-22",
+      "customer": "restu",
+      "treatment": "lashlift + eyelash + retouch",
+      "total": "49000"
+    },
+    {
+      "id": 512,
+      "tanggal": "2024-03-26",
+      "customer": "heni",
+      "treatment": "hairdo + retouch + remove",
+      "total": "108000"
+    },
+    {
+      "id": 513,
+      "tanggal": "2024-03-26",
+      "customer": "gea",
+      "treatment": "remove + eyelash + make up",
+      "total": "39000"
+    },
+    {
+      "id": 514,
+      "tanggal": "2024-03-27",
+      "customer": "diyana",
+      "treatment": "retouch + hairdo + remove",
+      "total": "146000"
+    },
+    {
+      "id": 515,
+      "tanggal": "2024-03-28",
+      "customer": "zahra",
+      "treatment": "make up + retouch + remove",
+      "total": "126000"
+    },
+    {
+      "id": 516,
+      "tanggal": "2024-04-02",
+      "customer": "jihan",
+      "treatment": "hairdo + make up + eyelash",
+      "total": "133000"
+    },
+    {
+      "id": 517,
+      "tanggal": "2024-04-02",
+      "customer": "emi",
+      "treatment": "nail art + eyelash",
+      "total": "338000"
+    },
+    {
+      "id": 518,
+      "tanggal": "2024-04-03",
+      "customer": "echi",
+      "treatment": "hairdo + remove + make up",
+      "total": "95000"
+    },
+    {
+      "id": 519,
+      "tanggal": "2024-04-04",
+      "customer": "helen",
+      "treatment": "nail art + eyelash",
+      "total": "290000"
+    },
+    {
+      "id": 520,
+      "tanggal": "2024-04-04",
+      "customer": "roro",
+      "treatment": "make up + eyelash + remove",
+      "total": "124000"
+    },
+    {
+      "id": 521,
+      "tanggal": "2024-04-04",
+      "customer": "kiki",
+      "treatment": "make up + eyelash + retouch",
+      "total": "131000"
+    },
+    {
+      "id": 522,
+      "tanggal": "2024-04-04",
+      "customer": "deris",
+      "treatment": "make up + retouch + remove",
+      "total": "27500"
+    },
+    {
+      "id": 523,
+      "tanggal": "2024-04-05",
+      "customer": "zahra",
+      "treatment": "lashlift + remove + retouch",
+      "total": "55000"
+    },
+    {
+      "id": 524,
+      "tanggal": "2024-04-05",
+      "customer": "pelangi",
+      "treatment": "retouch + make up + remove",
+      "total": "81000"
+    },
+    {
+      "id": 525,
+      "tanggal": "2024-04-05",
+      "customer": "ifon",
+      "treatment": "retouch + remove + eyelash",
+      "total": "74000"
+    },
+    {
+      "id": 526,
+      "tanggal": "2024-04-05",
+      "customer": "cathrin",
+      "treatment": "hairdo + eyelash + lashlift",
+      "total": "74000"
+    },
+    {
+      "id": 527,
+      "tanggal": "2024-04-05",
+      "customer": "anjani",
+      "treatment": "retouch + lashlift + hairdo",
+      "total": "83000"
+    },
+    {
+      "id": 528,
+      "tanggal": "2024-04-05",
+      "customer": "febiani",
+      "treatment": "eyelash + lashlift + make up",
+      "total": "145000"
+    },
+    {
+      "id": 529,
+      "tanggal": "2024-04-05",
+      "customer": "winda",
+      "treatment": "remove + hairdo + eyelash",
+      "total": "130000"
+    },
+    {
+      "id": 530,
+      "tanggal": "2024-04-05",
+      "customer": "kadek maya",
+      "treatment": "lashlift + make up + eyelash",
+      "total": "125000"
+    },
+    {
+      "id": 531,
+      "tanggal": "2024-04-05",
+      "customer": "jihan",
+      "treatment": "retouch + hairdo + remove",
+      "total": "230000"
+    },
+    {
+      "id": 532,
+      "tanggal": "2024-04-06",
+      "customer": "intania",
+      "treatment": "make up + remove + hairdo",
+      "total": "125000"
+    },
+    {
+      "id": 533,
+      "tanggal": "2024-04-06",
+      "customer": "kinaya",
+      "treatment": "retouch + make up + remove",
+      "total": "158000"
+    },
+    {
+      "id": 534,
+      "tanggal": "2024-04-07",
+      "customer": "keisa",
+      "treatment": "retouch + lashlift + eyelash",
+      "total": "201000"
+    },
+    {
+      "id": 535,
+      "tanggal": "2024-04-07",
+      "customer": "anisa",
+      "treatment": "nail art + eyelash",
+      "total": "175000"
+    },
+    {
+      "id": 536,
+      "tanggal": "2024-04-07",
+      "customer": "septi",
+      "treatment": "retouch + hairdo + eyelash",
+      "total": "201000"
+    },
+    {
+      "id": 537,
+      "tanggal": "2024-04-07",
+      "customer": "reida",
+      "treatment": "make up + remove + lashlift",
+      "total": "138000"
+    },
+    {
+      "id": 538,
+      "tanggal": "2024-04-07",
+      "customer": "vania",
+      "treatment": "retouch + hairdo + remove",
+      "total": "324000"
+    },
+    {
+      "id": 539,
+      "tanggal": "2024-04-07",
+      "customer": "khansa",
+      "treatment": "eyelash + make up + remove",
+      "total": "224000"
+    },
+    {
+      "id": 540,
+      "tanggal": "2024-04-07",
+      "customer": "devi",
+      "treatment": "eyelash + remove + lashlift",
+      "total": "210000"
+    },
+    {
+      "id": 541,
+      "tanggal": "2024-04-07",
+      "customer": "silvia",
+      "treatment": "remove + eyelash + hairdo",
+      "total": "188000"
+    },
+    {
+      "id": 542,
+      "tanggal": "2024-04-07",
+      "customer": "nabila",
+      "treatment": "make up + retouch + hairdo",
+      "total": "145000"
+    },
+    {
+      "id": 543,
+      "tanggal": "2024-04-07",
+      "customer": "kiki",
+      "treatment": "hairdo + eyelash + make up",
+      "total": "131000"
+    },
+    {
+      "id": 544,
+      "tanggal": "2024-04-07",
+      "customer": "luluk",
+      "treatment": "retouch + lashlift + hairdo",
+      "total": "77000"
+    },
+    {
+      "id": 545,
+      "tanggal": "2024-04-08",
+      "customer": "angelina",
+      "treatment": "make up + retouch + lashlift",
+      "total": "110000"
+    },
+    {
+      "id": 546,
+      "tanggal": "2024-04-08",
+      "customer": "alivia",
+      "treatment": "lashlift + remove + retouch",
+      "total": "196000"
+    },
+    {
+      "id": 547,
+      "tanggal": "2024-04-08",
+      "customer": "anis",
+      "treatment": "eyelash + retouch + remove",
+      "total": "61000"
+    },
+    {
+      "id": 548,
+      "tanggal": "2024-04-08",
+      "customer": "cantika",
+      "treatment": "make up + hairdo + eyelash",
+      "total": "244000"
+    },
+    {
+      "id": 549,
+      "tanggal": "2024-04-08",
+      "customer": "dita",
+      "treatment": "retouch + remove + lashlift",
+      "total": "154000"
+    },
+    {
+      "id": 550,
+      "tanggal": "2024-04-08",
+      "customer": "nesya",
+      "treatment": "hairdo + retouch + make up",
+      "total": "181000"
+    },
+    {
+      "id": 551,
+      "tanggal": "2024-04-08",
+      "customer": "hera",
+      "treatment": "lashlift + eyelash + retouch",
+      "total": "140000"
+    },
+    {
+      "id": 552,
+      "tanggal": "2024-04-08",
+      "customer": "tika",
+      "treatment": "remove + retouch + hairdo",
+      "total": "76000"
+    },
+    {
+      "id": 553,
+      "tanggal": "2024-04-08",
+      "customer": "mina",
+      "treatment": "lashlift + make up + hairdo",
+      "total": "58000"
+    },
+    {
+      "id": 554,
+      "tanggal": "2024-04-08",
+      "customer": "anara",
+      "treatment": "remove + hairdo + eyelash",
+      "total": "86000"
+    },
+    {
+      "id": 555,
+      "tanggal": "2024-04-08",
+      "customer": "elvi",
+      "treatment": "eyelash + lashlift + make up",
+      "total": "105000"
+    },
+    {
+      "id": 556,
+      "tanggal": "2024-04-09",
+      "customer": "galih",
+      "treatment": "remove + lashlift + retouch",
+      "total": "91000"
+    },
+    {
+      "id": 557,
+      "tanggal": "2024-04-09",
+      "customer": "tya",
+      "treatment": "eyelash + make up + retouch",
+      "total": "90000"
+    },
+    {
+      "id": 558,
+      "tanggal": "2024-04-09",
+      "customer": "ayu",
+      "treatment": "hairdo + lashlift + eyelash",
+      "total": "145000"
+    },
+    {
+      "id": 559,
+      "tanggal": "2024-04-09",
+      "customer": "winda",
+      "treatment": "eyelash + hairdo + retouch",
+      "total": "205000"
+    },
+    {
+      "id": 560,
+      "tanggal": "2024-04-09",
+      "customer": "feby",
+      "treatment": "make up + remove + hairdo",
+      "total": "55000"
+    },
+    {
+      "id": 561,
+      "tanggal": "2024-04-09",
+      "customer": "destri",
+      "treatment": "make up + lashlift + eyelash",
+      "total": "280000"
+    },
+    {
+      "id": 562,
+      "tanggal": "2024-04-09",
+      "customer": "keisya",
+      "treatment": "lashlift + hairdo + eyelash",
+      "total": "61000"
+    },
+    {
+      "id": 563,
+      "tanggal": "2024-04-09",
+      "customer": "nisa",
+      "treatment": "hairdo + retouch + eyelash",
+      "total": "45000"
+    },
+    {
+      "id": 564,
+      "tanggal": "2024-04-09",
+      "customer": "wida",
+      "treatment": "retouch + hairdo + eyelash",
+      "total": "186000"
+    },
+    {
+      "id": 565,
+      "tanggal": "2024-04-02",
+      "customer": "meta",
+      "treatment": "hairdo + eyelash + remove",
+      "total": "89000"
+    },
+    {
+      "id": 566,
+      "tanggal": "2024-04-03",
+      "customer": "nevi",
+      "treatment": "lashlift + make up + retouch",
+      "total": "47000"
+    },
+    {
+      "id": 567,
+      "tanggal": "2024-04-03",
+      "customer": "beatrice",
+      "treatment": "remove + retouch + hairdo",
+      "total": "84000"
+    },
+    {
+      "id": 568,
+      "tanggal": "2024-04-03",
+      "customer": "tatan",
+      "treatment": "eyelash + make up + retouch",
+      "total": "77000"
+    },
+    {
+      "id": 569,
+      "tanggal": "2024-04-03",
+      "customer": "manda",
+      "treatment": "eyelash + remove + lashlift",
+      "total": "107000"
+    },
+    {
+      "id": 570,
+      "tanggal": "2024-04-03",
+      "customer": "safira",
+      "treatment": "make up + lashlift + retouch",
+      "total": "57000"
+    },
+    {
+      "id": 571,
+      "tanggal": "2024-04-03",
+      "customer": "sela",
+      "treatment": "remove + lashlift + eyelash",
+      "total": "99000"
+    },
+    {
+      "id": 572,
+      "tanggal": "2024-04-05",
+      "customer": "abel",
+      "treatment": "eyelash + lashlift + retouch",
+      "total": "96000"
+    },
+    {
+      "id": 573,
+      "tanggal": "2024-04-05",
+      "customer": "rara",
+      "treatment": "remove + make up + retouch",
+      "total": "112000"
+    },
+    {
+      "id": 574,
+      "tanggal": "2024-04-06",
+      "customer": "gracelea",
+      "treatment": "retouch + hairdo + eyelash",
+      "total": "75000"
+    },
+    {
+      "id": 575,
+      "tanggal": "2024-05-02",
+      "customer": "jihan",
+      "treatment": "remove + eyelash + retouch",
+      "total": "91000"
+    },
+    {
+      "id": 576,
+      "tanggal": "2024-05-04",
+      "customer": "airin",
+      "treatment": "eyelash + remove + lashlift",
+      "total": "130000"
+    },
+    {
+      "id": 577,
+      "tanggal": "2024-05-06",
+      "customer": "feby",
+      "treatment": "lashlift + retouch + eyelash",
+      "total": "100000"
+    },
+    {
+      "id": 578,
+      "tanggal": "2024-05-07",
+      "customer": "lisa",
+      "treatment": "lashlift + make up + retouch",
+      "total": "70000"
+    },
+    {
+      "id": 579,
+      "tanggal": "2024-05-07",
+      "customer": "maisa",
+      "treatment": "lashlift + remove + make up",
+      "total": "115000"
+    },
+    {
+      "id": 580,
+      "tanggal": "2024-05-07",
+      "customer": "anisa",
+      "treatment": "eyelash + remove + lashlift",
+      "total": "119000"
+    },
+    {
+      "id": 581,
+      "tanggal": "2024-05-07",
+      "customer": "astri",
+      "treatment": "remove + lashlift + retouch",
+      "total": "20000"
+    },
+    {
+      "id": 582,
+      "tanggal": "2024-05-08",
+      "customer": "irma",
+      "treatment": "make up + eyelash + lashlift",
+      "total": "123000"
+    },
+    {
+      "id": 583,
+      "tanggal": "2024-05-08",
+      "customer": "zahra",
+      "treatment": "hairdo + eyelash + make up",
+      "total": "140000"
+    },
+    {
+      "id": 584,
+      "tanggal": "2024-05-08",
+      "customer": "seelli",
+      "treatment": "hairdo + eyelash + remove",
+      "total": "60000"
+    },
+    {
+      "id": 585,
+      "tanggal": "2024-05-09",
+      "customer": "rahma",
+      "treatment": "make up + retouch + eyelash",
+      "total": "97000"
+    },
+    {
+      "id": 586,
+      "tanggal": "2024-05-09",
+      "customer": "nafda",
+      "treatment": "make up + hairdo + remove",
+      "total": "95000"
+    },
+    {
+      "id": 587,
+      "tanggal": "2024-05-11",
+      "customer": "tata",
+      "treatment": "make up + lashlift + remove",
+      "total": "70000"
+    },
+    {
+      "id": 588,
+      "tanggal": "2024-05-11",
+      "customer": "clara",
+      "treatment": "lashlift + retouch + hairdo",
+      "total": "184000"
+    },
+    {
+      "id": 589,
+      "tanggal": "2024-05-12",
+      "customer": "anggik",
+      "treatment": "retouch + remove + eyelash",
+      "total": "71000"
+    },
+    {
+      "id": 590,
+      "tanggal": "2024-05-12",
+      "customer": "nadia",
+      "treatment": "nail art + eyelash",
+      "total": "170000"
+    },
+    {
+      "id": 591,
+      "tanggal": "2024-05-13",
+      "customer": "helsa",
+      "treatment": "make up + hairdo + lashlift",
+      "total": "63000"
+    },
+    {
+      "id": 592,
+      "tanggal": "2024-05-13",
+      "customer": "nona",
+      "treatment": "retouch + make up + lashlift",
+      "total": "10000"
+    },
+    {
+      "id": 593,
+      "tanggal": "2024-05-14",
+      "customer": "ika",
+      "treatment": "lashlift + make up + hairdo",
+      "total": "190000"
+    },
+    {
+      "id": 594,
+      "tanggal": "2024-05-14",
+      "customer": "intan",
+      "treatment": "nail art + eyelash",
+      "total": "312000"
+    },
+    {
+      "id": 595,
+      "tanggal": "2024-05-14",
+      "customer": "yezika",
+      "treatment": "retouch + make up + hairdo",
+      "total": "79000"
+    },
+    {
+      "id": 596,
+      "tanggal": "2024-05-15",
+      "customer": "linda",
+      "treatment": "nail art + remove",
+      "total": "53000"
+    },
+    {
+      "id": 597,
+      "tanggal": "2024-05-15",
+      "customer": "widya",
+      "treatment": "eyelash + retouch + make up",
+      "total": "210000"
+    },
+    {
+      "id": 598,
+      "tanggal": "2024-05-15",
+      "customer": "venti",
+      "treatment": "hairdo + make up + retouch",
+      "total": "41000"
+    },
+    {
+      "id": 599,
+      "tanggal": "2024-05-15",
+      "customer": "wayan",
+      "treatment": "lashlift + hairdo + eyelash",
+      "total": "61000"
+    },
+    {
+      "id": 600,
+      "tanggal": "2024-05-16",
+      "customer": "infanta",
+      "treatment": "hairdo + lashlift + eyelash",
+      "total": "140000"
+    },
+    {
+      "id": 601,
+      "tanggal": "2024-05-17",
+      "customer": "vin",
+      "treatment": "eyelash + remove + lashlift",
+      "total": "170000"
+    },
+    {
+      "id": 602,
+      "tanggal": "2024-05-17",
+      "customer": "dian",
+      "treatment": "make up + remove + hairdo",
+      "total": "120000"
+    },
+    {
+      "id": 603,
+      "tanggal": "2024-05-18",
+      "customer": "putri",
+      "treatment": "lashlift + eyelash + hairdo",
+      "total": "150000"
+    },
+    {
+      "id": 604,
+      "tanggal": "2024-05-18",
+      "customer": "maya",
+      "treatment": "make up + lashlift + eyelash",
+      "total": "140000"
+    },
+    {
+      "id": 605,
+      "tanggal": "2024-05-19",
+      "customer": "evi",
+      "treatment": "retouch + make up + eyelash",
+      "total": "77000"
+    },
+    {
+      "id": 606,
+      "tanggal": "2024-05-19",
+      "customer": "vegha",
+      "treatment": "eyelash + remove + retouch",
+      "total": "75000"
+    },
+    {
+      "id": 607,
+      "tanggal": "2024-05-19",
+      "customer": "lia",
+      "treatment": "lashlift + retouch + remove",
+      "total": "213000"
+    },
+    {
+      "id": 608,
+      "tanggal": "2024-05-20",
+      "customer": "rizka",
+      "treatment": "retouch + remove + eyelash",
+      "total": "174000"
+    },
+    {
+      "id": 609,
+      "tanggal": "2024-05-20",
+      "customer": "rafi",
+      "treatment": "hairdo + make up + lashlift",
+      "total": "70000"
+    },
+    {
+      "id": 610,
+      "tanggal": "2024-05-20",
+      "customer": "repta",
+      "treatment": "retouch + lashlift + hairdo",
+      "total": "85000"
+    },
+    {
+      "id": 611,
+      "tanggal": "2024-05-20",
+      "customer": "stefani",
+      "treatment": "make up + hairdo + eyelash",
+      "total": "90000"
+    },
+    {
+      "id": 612,
+      "tanggal": "2024-05-21",
+      "customer": "rizka",
+      "treatment": "make up + lashlift + remove",
+      "total": "111000"
+    },
+    {
+      "id": 613,
+      "tanggal": "2024-05-21",
+      "customer": "kesiaa",
+      "treatment": "remove + make up + retouch",
+      "total": "150000"
+    },
+    {
+      "id": 614,
+      "tanggal": "2024-05-22",
+      "customer": "anisa",
+      "treatment": "nail art + remove",
+      "total": "43000"
+    },
+    {
+      "id": 615,
+      "tanggal": "2024-05-22",
+      "customer": "zilka",
+      "treatment": "remove + make up + hairdo",
+      "total": "94000"
+    },
+    {
+      "id": 616,
+      "tanggal": "2024-05-22",
+      "customer": "afriani",
+      "treatment": "hairdo + lashlift + eyelash",
+      "total": "60000"
+    },
+    {
+      "id": 617,
+      "tanggal": "2024-05-23",
+      "customer": "adel",
+      "treatment": "nail art + remove",
+      "total": "207000"
+    },
+    {
+      "id": 618,
+      "tanggal": "2024-05-23",
+      "customer": "carolin",
+      "treatment": "eyelash + lashlift + retouch",
+      "total": "45000"
+    },
+    {
+      "id": 619,
+      "tanggal": "2024-05-23",
+      "customer": "putrri",
+      "treatment": "remove + lashlift + eyelash",
+      "total": "318000"
+    },
+    {
+      "id": 620,
+      "tanggal": "2024-05-23",
+      "customer": "ulfa",
+      "treatment": "lashlift + eyelash + hairdo",
+      "total": "103000"
+    },
+    {
+      "id": 621,
+      "tanggal": "2024-05-24",
+      "customer": "winda",
+      "treatment": "make up + retouch + remove",
+      "total": "100000"
+    },
+    {
+      "id": 622,
+      "tanggal": "2024-05-24",
+      "customer": "anisa",
+      "treatment": "eyelash + lashlift + remove",
+      "total": "90000"
+    },
+    {
+      "id": 623,
+      "tanggal": "2024-05-24",
+      "customer": "grace",
+      "treatment": "eyelash + make up + remove",
+      "total": "100000"
+    },
+    {
+      "id": 624,
+      "tanggal": "2024-05-26",
+      "customer": "destri",
+      "treatment": "eyelash + remove + retouch",
+      "total": "147000"
+    },
+    {
+      "id": 625,
+      "tanggal": "2024-05-26",
+      "customer": "rika",
+      "treatment": "eyelash + remove + hairdo",
+      "total": "105000"
+    },
+    {
+      "id": 626,
+      "tanggal": "2024-05-26",
+      "customer": "alhamidah",
+      "treatment": "eyelash + hairdo + lashlift",
+      "total": "185000"
+    },
+    {
+      "id": 627,
+      "tanggal": "2024-05-27",
+      "customer": "agnes",
+      "treatment": "retouch + eyelash + make up",
+      "total": "73500"
+    },
+    {
+      "id": 628,
+      "tanggal": "2024-05-27",
+      "customer": "hana",
+      "treatment": "retouch + hairdo + remove",
+      "total": "80500"
+    },
+    {
+      "id": 629,
+      "tanggal": "2024-05-27",
+      "customer": "anisa",
+      "treatment": "hairdo + make up + lashlift",
+      "total": "165000"
+    },
+    {
+      "id": 630,
+      "tanggal": "2024-05-28",
+      "customer": "teresia",
+      "treatment": "hairdo + retouch + remove",
+      "total": "91000"
+    },
+    {
+      "id": 631,
+      "tanggal": "2024-05-29",
+      "customer": "eyelash hmc",
+      "treatment": "eyelash + make up + retouch",
+      "total": "130000"
+    },
+    {
+      "id": 632,
+      "tanggal": "2024-05-30",
+      "customer": "make up 7 org",
+      "treatment": "make up + lashlift + eyelash",
+      "total": "550000"
+    },
+    {
+      "id": 633,
+      "tanggal": "2024-05-30",
+      "customer": "inggar hmc",
+      "treatment": "lashlift + retouch + make up",
+      "total": "200000"
+    },
+    {
+      "id": 634,
+      "tanggal": "2024-05-30",
+      "customer": "hmc ika",
+      "treatment": "nail art + eyelash",
+      "total": "272000"
+    },
+    {
+      "id": 635,
+      "tanggal": "2024-05-30",
+      "customer": "fina hmc",
+      "treatment": "hairdo + eyelash + remove",
+      "total": "250000"
+    },
+    {
+      "id": 636,
+      "tanggal": "2024-05-02",
+      "customer": "jihan",
+      "treatment": "remove + make up + retouch",
+      "total": "91000"
+    },
+    {
+      "id": 637,
+      "tanggal": "2024-05-04",
+      "customer": "airin",
+      "treatment": "remove + lashlift + hairdo",
+      "total": "130000"
+    },
+    {
+      "id": 638,
+      "tanggal": "2024-05-06",
+      "customer": "feby",
+      "treatment": "lashlift + eyelash + retouch",
+      "total": "100000"
+    },
+    {
+      "id": 639,
+      "tanggal": "2024-05-07",
+      "customer": "lisa",
+      "treatment": "lashlift + remove + eyelash",
+      "total": "70000"
+    },
+    {
+      "id": 640,
+      "tanggal": "2024-05-07",
+      "customer": "maisa",
+      "treatment": "retouch + eyelash + remove",
+      "total": "115000"
+    },
+    {
+      "id": 641,
+      "tanggal": "2024-05-07",
+      "customer": "anisa",
+      "treatment": "hairdo + remove + make up",
+      "total": "119000"
+    },
+    {
+      "id": 642,
+      "tanggal": "2024-05-07",
+      "customer": "astri",
+      "treatment": "remove + retouch + eyelash",
+      "total": "20000"
+    },
+    {
+      "id": 643,
+      "tanggal": "2024-05-08",
+      "customer": "irma",
+      "treatment": "make up + eyelash + lashlift",
+      "total": "123000"
+    },
+    {
+      "id": 644,
+      "tanggal": "2024-05-08",
+      "customer": "zahra",
+      "treatment": "eyelash + remove + lashlift",
+      "total": "140000"
+    },
+    {
+      "id": 645,
+      "tanggal": "2024-05-08",
+      "customer": "seelli",
+      "treatment": "remove + hairdo + retouch",
+      "total": "60000"
+    },
+    {
+      "id": 646,
+      "tanggal": "2024-05-09",
+      "customer": "rahma",
+      "treatment": "eyelash + lashlift + make up",
+      "total": "97000"
+    },
+    {
+      "id": 647,
+      "tanggal": "2024-05-09",
+      "customer": "nafda",
+      "treatment": "eyelash + remove + retouch",
+      "total": "95000"
+    },
+    {
+      "id": 648,
+      "tanggal": "2024-05-11",
+      "customer": "tata",
+      "treatment": "retouch + hairdo + eyelash",
+      "total": "70000"
+    },
+    {
+      "id": 649,
+      "tanggal": "2024-05-11",
+      "customer": "clara",
+      "treatment": "retouch + lashlift + eyelash",
+      "total": "184000"
+    },
+    {
+      "id": 650,
+      "tanggal": "2024-05-12",
+      "customer": "anggik",
+      "treatment": "retouch + eyelash + hairdo",
+      "total": "71000"
+    },
+    {
+      "id": 651,
+      "tanggal": "2024-05-12",
+      "customer": "nadia",
+      "treatment": "nail art + eyelash",
+      "total": "170000"
+    },
+    {
+      "id": 652,
+      "tanggal": "2024-05-13",
+      "customer": "helsa",
+      "treatment": "eyelash + hairdo + remove",
+      "total": "63000"
+    },
+    {
+      "id": 653,
+      "tanggal": "2024-05-13",
+      "customer": "nona",
+      "treatment": "retouch + make up + lashlift",
+      "total": "10000"
+    },
+    {
+      "id": 654,
+      "tanggal": "2024-05-14",
+      "customer": "ika",
+      "treatment": "retouch + lashlift + make up",
+      "total": "190000"
+    },
+    {
+      "id": 655,
+      "tanggal": "2024-05-14",
+      "customer": "intan",
+      "treatment": "nail art + eyelash",
+      "total": "312000"
+    },
+    {
+      "id": 656,
+      "tanggal": "2024-05-14",
+      "customer": "yezika",
+      "treatment": "eyelash + remove + retouch",
+      "total": "79000"
+    },
+    {
+      "id": 657,
+      "tanggal": "2024-05-15",
+      "customer": "linda",
+      "treatment": "nail art + remove",
+      "total": "53000"
+    },
+    {
+      "id": 658,
+      "tanggal": "2024-05-15",
+      "customer": "widya",
+      "treatment": "eyelash + remove + retouch",
+      "total": "210000"
+    },
+    {
+      "id": 659,
+      "tanggal": "2024-05-15",
+      "customer": "venti",
+      "treatment": "retouch + lashlift + remove",
+      "total": "41000"
+    },
+    {
+      "id": 660,
+      "tanggal": "2024-05-15",
+      "customer": "wayan",
+      "treatment": "remove + hairdo + make up",
+      "total": "61000"
+    },
+    {
+      "id": 661,
+      "tanggal": "2024-05-16",
+      "customer": "infanta",
+      "treatment": "make up + hairdo + retouch",
+      "total": "140000"
+    },
+    {
+      "id": 662,
+      "tanggal": "2024-05-17",
+      "customer": "vin",
+      "treatment": "retouch + hairdo + lashlift",
+      "total": "170000"
+    },
+    {
+      "id": 663,
+      "tanggal": "2024-05-17",
+      "customer": "dian",
+      "treatment": "make up + remove + lashlift",
+      "total": "120000"
+    },
+    {
+      "id": 664,
+      "tanggal": "2024-05-18",
+      "customer": "putri",
+      "treatment": "retouch + remove + hairdo",
+      "total": "150000"
+    },
+    {
+      "id": 665,
+      "tanggal": "2024-05-18",
+      "customer": "maya",
+      "treatment": "eyelash + retouch + lashlift",
+      "total": "140000"
+    },
+    {
+      "id": 666,
+      "tanggal": "2024-05-19",
+      "customer": "evi",
+      "treatment": "retouch + make up + remove",
+      "total": "77000"
+    },
+    {
+      "id": 667,
+      "tanggal": "2024-05-19",
+      "customer": "vegha",
+      "treatment": "lashlift + remove + hairdo",
+      "total": "75000"
+    },
+    {
+      "id": 668,
+      "tanggal": "2024-05-19",
+      "customer": "lia",
+      "treatment": "lashlift + hairdo + eyelash",
+      "total": "213000"
+    },
+    {
+      "id": 669,
+      "tanggal": "2024-05-20",
+      "customer": "rizka",
+      "treatment": "retouch + hairdo + remove",
+      "total": "174000"
+    },
+    {
+      "id": 670,
+      "tanggal": "2024-05-20",
+      "customer": "rafi",
+      "treatment": "lashlift + make up + eyelash",
+      "total": "70000"
+    },
+    {
+      "id": 671,
+      "tanggal": "2024-05-20",
+      "customer": "repta",
+      "treatment": "remove + eyelash + lashlift",
+      "total": "85000"
+    },
+    {
+      "id": 672,
+      "tanggal": "2024-05-20",
+      "customer": "stefani",
+      "treatment": "hairdo + make up + retouch",
+      "total": "90000"
+    },
+    {
+      "id": 673,
+      "tanggal": "2024-05-21",
+      "customer": "rizka",
+      "treatment": "hairdo + remove + lashlift",
+      "total": "111000"
+    },
+    {
+      "id": 674,
+      "tanggal": "2024-05-21",
+      "customer": "kesiaa",
+      "treatment": "remove + lashlift + make up",
+      "total": "150000"
+    },
+    {
+      "id": 675,
+      "tanggal": "2024-05-22",
+      "customer": "anisa",
+      "treatment": "nail art + remove",
+      "total": "43000"
+    },
+    {
+      "id": 676,
+      "tanggal": "2024-05-22",
+      "customer": "zilka",
+      "treatment": "lashlift + remove + hairdo",
+      "total": "94000"
+    },
+    {
+      "id": 677,
+      "tanggal": "2024-05-22",
+      "customer": "afriani",
+      "treatment": "eyelash + make up + remove",
+      "total": "60000"
+    },
+    {
+      "id": 678,
+      "tanggal": "2024-05-23",
+      "customer": "adel",
+      "treatment": "nail art + remove",
+      "total": "207000"
+    },
+    {
+      "id": 679,
+      "tanggal": "2024-05-23",
+      "customer": "carolin",
+      "treatment": "eyelash + hairdo + retouch",
+      "total": "45000"
+    },
+    {
+      "id": 680,
+      "tanggal": "2024-05-23",
+      "customer": "putrri",
+      "treatment": "eyelash + make up + hairdo",
+      "total": "318000"
+    },
+    {
+      "id": 681,
+      "tanggal": "2024-05-23",
+      "customer": "ulfa",
+      "treatment": "retouch + lashlift + hairdo",
+      "total": "103000"
+    },
+    {
+      "id": 682,
+      "tanggal": "2024-05-24",
+      "customer": "winda",
+      "treatment": "make up + remove + lashlift",
+      "total": "100000"
+    },
+    {
+      "id": 683,
+      "tanggal": "2024-05-24",
+      "customer": "anisa",
+      "treatment": "eyelash + retouch + make up",
+      "total": "90000"
+    },
+    {
+      "id": 684,
+      "tanggal": "2024-05-24",
+      "customer": "grace",
+      "treatment": "eyelash + hairdo + remove",
+      "total": "100000"
+    },
+    {
+      "id": 685,
+      "tanggal": "2024-05-26",
+      "customer": "destri",
+      "treatment": "eyelash + retouch + make up",
+      "total": "147000"
+    },
+    {
+      "id": 686,
+      "tanggal": "2024-05-26",
+      "customer": "rika",
+      "treatment": "eyelash + retouch + make up",
+      "total": "105000"
+    },
+    {
+      "id": 687,
+      "tanggal": "2024-05-26",
+      "customer": "alhamidah",
+      "treatment": "remove + hairdo + retouch",
+      "total": "185000"
+    },
+    {
+      "id": 688,
+      "tanggal": "2024-05-27",
+      "customer": "agnes",
+      "treatment": "remove + hairdo + retouch",
+      "total": "73500"
+    },
+    {
+      "id": 689,
+      "tanggal": "2024-05-27",
+      "customer": "hana",
+      "treatment": "eyelash + hairdo + make up",
+      "total": "80500"
+    },
+    {
+      "id": 690,
+      "tanggal": "2024-05-27",
+      "customer": "anisa",
+      "treatment": "hairdo + make up + eyelash",
+      "total": "165000"
+    },
+    {
+      "id": 691,
+      "tanggal": "2024-05-28",
+      "customer": "teresia",
+      "treatment": "lashlift + remove + hairdo",
+      "total": "91000"
+    },
+    {
+      "id": 692,
+      "tanggal": "2024-05-29",
+      "customer": "eyelash hmc",
+      "treatment": "eyelash + remove + make up",
+      "total": "130000"
+    },
+    {
+      "id": 693,
+      "tanggal": "2024-05-30",
+      "customer": "make up 7 org",
+      "treatment": "make up + hairdo + lashlift",
+      "total": "550000"
+    },
+    {
+      "id": 694,
+      "tanggal": "2024-05-30",
+      "customer": "inggar hmc",
+      "treatment": "lashlift + eyelash + retouch",
+      "total": "200000"
+    },
+    {
+      "id": 695,
+      "tanggal": "2024-05-30",
+      "customer": "hmc ika",
+      "treatment": "nail art + eyelash",
+      "total": "272000"
+    }
+  ],
+  "transactions_list": [
+    [
+      "eyelash",
+      "nail art"
+    ],
+    [
+      "nail art",
+      "eyelash"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "remove",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "remove",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "hairdo",
+      "lashlift",
+      "eyelash"
+    ],
+    [
+      "nail art",
+      "lashlift"
+    ],
+    [
+      "nail art",
+      "eyelash"
+    ],
+    [
+      "make up",
+      "hairdo"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "eyelash",
+      "remove",
+      "make up"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "lashlift",
+      "retouch",
+      "remove"
+    ],
+    [
+      "nail art",
+      "remove",
+      "press on"
+    ],
+    [
+      "nail art",
+      "remove",
+      "press on"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "remove",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "remove",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "remove",
+      "press on"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "lashlift"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "eyelash"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "remove",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "remove",
+      "press on"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "remove",
+      "press on"
+    ],
+    [
+      "nail art",
+      "remove",
+      "press on"
+    ],
+    [
+      "nail art",
+      "lashlift",
+      "eyelash"
+    ],
+    [
+      "nail art",
+      "remove",
+      "press on"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "remove"
+    ],
+    [
+      "nail art",
+      "remove",
+      "press on"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "remove",
+      "retouch"
+    ],
+    [
+      "lashlift",
+      "hairdo",
+      "retouch"
+    ],
+    [
+      "lashlift",
+      "hairdo",
+      "eyelash"
+    ],
+    [
+      "make up",
+      "hairdo"
+    ],
+    [
+      "make up",
+      "hairdo"
+    ],
+    [
+      "nail art",
+      "remove",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "remove",
+      "press on"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "eyelash",
+      "hairdo",
+      "remove"
+    ],
+    [
+      "nail art",
+      "remove",
+      "press on"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "make up",
+      "hairdo",
+      "retouch"
+    ],
+    [
+      "retouch",
+      "eyelash",
+      "nail art"
+    ],
+    [
+      "make up",
+      "nail art"
+    ],
+    [
+      "make up",
+      "hairdo",
+      "eyelash"
+    ],
+    [
+      "make up",
+      "retouch",
+      "hairdo"
+    ],
+    [
+      "nail art",
+      "lashlift"
+    ],
+    [
+      "eyelash",
+      "hairdo",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "remove",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "remove",
+      "retouch"
+    ],
+    [
+      "eyelash",
+      "retouch",
+      "make up"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "make up",
+      "retouch",
+      "lashlift"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "remove"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "remove",
+      "press on"
+    ],
+    [
+      "nail art",
+      "remove",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "remove",
+      "press on"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "eyelash",
+      "nail art"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "remove",
+      "press on"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "remove",
+      "press on"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "remove",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "remove",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "remove",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "remove",
+      "eyelash",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "remove",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "remove",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "eyelash"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "retouch",
+      "lashlift",
+      "hairdo"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "eyelash"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "remove"
+    ],
+    [
+      "eyelash",
+      "hairdo",
+      "lashlift"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "remove",
+      "press on"
+    ],
+    [
+      "nail art",
+      "remove",
+      "press on"
+    ],
+    [
+      "nail art",
+      "remove",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "remove"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "remove"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "make up",
+      "eyelash",
+      "remove"
+    ],
+    [
+      "eyelash",
+      "retouch",
+      "lashlift"
+    ],
+    [
+      "eyelash",
+      "make up",
+      "remove"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "remove",
+      "press on"
+    ],
+    [
+      "nail art",
+      "remove",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "remove",
+      "press on"
+    ],
+    [
+      "nail art",
+      "remove",
+      "press on"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "remove",
+      "press on"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "remove",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "remove",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "remove",
+      "press on"
+    ],
+    [
+      "nail art",
+      "remove",
+      "press on"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "remove",
+      "press on"
+    ],
+    [
+      "nail art",
+      "remove",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "remove",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "eyelash",
+      "hairdo",
+      "remove"
+    ],
+    [
+      "remove",
+      "eyelash",
+      "hairdo"
+    ],
+    [
+      "eyelash",
+      "hairdo",
+      "remove"
+    ],
+    [
+      "remove",
+      "eyelash",
+      "make up"
+    ],
+    [
+      "lashlift",
+      "remove",
+      "make up"
+    ],
+    [
+      "hairdo",
+      "retouch",
+      "eyelash"
+    ],
+    [
+      "retouch",
+      "lashlift",
+      "eyelash"
+    ],
+    [
+      "hairdo",
+      "eyelash",
+      "remove"
+    ],
+    [
+      "make up",
+      "eyelash",
+      "remove"
+    ],
+    [
+      "make up",
+      "remove",
+      "retouch"
+    ],
+    [
+      "eyelash",
+      "remove",
+      "retouch"
+    ],
+    [
+      "lashlift",
+      "hairdo",
+      "remove"
+    ],
+    [
+      "hairdo",
+      "make up",
+      "retouch"
+    ],
+    [
+      "make up",
+      "hairdo",
+      "lashlift"
+    ],
+    [
+      "make up",
+      "remove",
+      "eyelash"
+    ],
+    [
+      "nail art",
+      "eyelash"
+    ],
+    [
+      "make up",
+      "lashlift",
+      "remove"
+    ],
+    [
+      "retouch",
+      "eyelash",
+      "lashlift"
+    ],
+    [
+      "eyelash",
+      "make up",
+      "remove"
+    ],
+    [
+      "retouch",
+      "eyelash",
+      "make up"
+    ],
+    [
+      "hairdo",
+      "retouch",
+      "make up"
+    ],
+    [
+      "hairdo",
+      "eyelash",
+      "make up"
+    ],
+    [
+      "hairdo",
+      "retouch",
+      "make up"
+    ],
+    [
+      "make up",
+      "eyelash",
+      "retouch"
+    ],
+    [
+      "make up",
+      "hairdo",
+      "remove"
+    ],
+    [
+      "lashlift",
+      "hairdo",
+      "eyelash"
+    ],
+    [
+      "nail art",
+      "lashlift"
+    ],
+    [
+      "retouch",
+      "make up",
+      "lashlift"
+    ],
+    [
+      "make up",
+      "lashlift",
+      "eyelash"
+    ],
+    [
+      "remove",
+      "make up",
+      "retouch"
+    ],
+    [
+      "remove",
+      "eyelash",
+      "hairdo"
+    ],
+    [
+      "remove",
+      "eyelash",
+      "hairdo"
+    ],
+    [
+      "remove",
+      "retouch",
+      "hairdo"
+    ],
+    [
+      "hairdo",
+      "eyelash",
+      "make up"
+    ],
+    [
+      "lashlift",
+      "eyelash",
+      "hairdo"
+    ],
+    [
+      "remove",
+      "lashlift",
+      "eyelash"
+    ],
+    [
+      "remove",
+      "make up",
+      "retouch"
+    ],
+    [
+      "remove",
+      "retouch",
+      "eyelash"
+    ],
+    [
+      "make up",
+      "remove",
+      "hairdo"
+    ],
+    [
+      "remove",
+      "make up",
+      "lashlift"
+    ],
+    [
+      "eyelash",
+      "retouch",
+      "lashlift"
+    ],
+    [
+      "lashlift",
+      "make up",
+      "hairdo"
+    ],
+    [
+      "remove",
+      "hairdo",
+      "lashlift"
+    ],
+    [
+      "hairdo",
+      "remove",
+      "lashlift"
+    ],
+    [
+      "remove",
+      "make up",
+      "eyelash"
+    ],
+    [
+      "remove",
+      "eyelash",
+      "lashlift"
+    ],
+    [
+      "retouch",
+      "hairdo",
+      "remove"
+    ],
+    [
+      "lashlift",
+      "remove",
+      "hairdo"
+    ],
+    [
+      "eyelash",
+      "remove",
+      "hairdo"
+    ],
+    [
+      "remove",
+      "lashlift",
+      "eyelash"
+    ],
+    [
+      "hairdo",
+      "make up",
+      "remove"
+    ],
+    [
+      "hairdo",
+      "lashlift",
+      "remove"
+    ],
+    [
+      "make up",
+      "retouch",
+      "hairdo"
+    ],
+    [
+      "make up",
+      "eyelash",
+      "lashlift"
+    ],
+    [
+      "retouch",
+      "eyelash",
+      "remove"
+    ],
+    [
+      "remove",
+      "lashlift",
+      "retouch"
+    ],
+    [
+      "hairdo",
+      "make up",
+      "lashlift"
+    ],
+    [
+      "lashlift",
+      "eyelash",
+      "remove"
+    ],
+    [
+      "lashlift",
+      "hairdo",
+      "retouch"
+    ],
+    [
+      "remove",
+      "retouch",
+      "make up"
+    ],
+    [
+      "make up",
+      "eyelash",
+      "remove"
+    ],
+    [
+      "make up",
+      "eyelash",
+      "retouch"
+    ],
+    [
+      "eyelash",
+      "hairdo",
+      "lashlift"
+    ],
+    [
+      "remove",
+      "lashlift",
+      "make up"
+    ],
+    [
+      "make up",
+      "lashlift",
+      "eyelash"
+    ],
+    [
+      "make up",
+      "lashlift",
+      "retouch"
+    ],
+    [
+      "lashlift",
+      "eyelash",
+      "retouch"
+    ],
+    [
+      "hairdo",
+      "retouch",
+      "remove"
+    ],
+    [
+      "remove",
+      "eyelash",
+      "make up"
+    ],
+    [
+      "retouch",
+      "hairdo",
+      "remove"
+    ],
+    [
+      "make up",
+      "retouch",
+      "remove"
+    ],
+    [
+      "hairdo",
+      "make up",
+      "eyelash"
+    ],
+    [
+      "nail art",
+      "eyelash"
+    ],
+    [
+      "hairdo",
+      "remove",
+      "make up"
+    ],
+    [
+      "nail art",
+      "eyelash"
+    ],
+    [
+      "make up",
+      "eyelash",
+      "remove"
+    ],
+    [
+      "make up",
+      "eyelash",
+      "retouch"
+    ],
+    [
+      "make up",
+      "retouch",
+      "remove"
+    ],
+    [
+      "lashlift",
+      "remove",
+      "retouch"
+    ],
+    [
+      "retouch",
+      "make up",
+      "remove"
+    ],
+    [
+      "retouch",
+      "remove",
+      "eyelash"
+    ],
+    [
+      "hairdo",
+      "eyelash",
+      "lashlift"
+    ],
+    [
+      "retouch",
+      "lashlift",
+      "hairdo"
+    ],
+    [
+      "eyelash",
+      "lashlift",
+      "make up"
+    ],
+    [
+      "remove",
+      "hairdo",
+      "eyelash"
+    ],
+    [
+      "lashlift",
+      "make up",
+      "eyelash"
+    ],
+    [
+      "retouch",
+      "hairdo",
+      "remove"
+    ],
+    [
+      "make up",
+      "remove",
+      "hairdo"
+    ],
+    [
+      "retouch",
+      "make up",
+      "remove"
+    ],
+    [
+      "retouch",
+      "lashlift",
+      "eyelash"
+    ],
+    [
+      "nail art",
+      "eyelash"
+    ],
+    [
+      "retouch",
+      "hairdo",
+      "eyelash"
+    ],
+    [
+      "make up",
+      "remove",
+      "lashlift"
+    ],
+    [
+      "retouch",
+      "hairdo",
+      "remove"
+    ],
+    [
+      "eyelash",
+      "make up",
+      "remove"
+    ],
+    [
+      "eyelash",
+      "remove",
+      "lashlift"
+    ],
+    [
+      "remove",
+      "eyelash",
+      "hairdo"
+    ],
+    [
+      "make up",
+      "retouch",
+      "hairdo"
+    ],
+    [
+      "hairdo",
+      "eyelash",
+      "make up"
+    ],
+    [
+      "retouch",
+      "lashlift",
+      "hairdo"
+    ],
+    [
+      "make up",
+      "retouch",
+      "lashlift"
+    ],
+    [
+      "lashlift",
+      "remove",
+      "retouch"
+    ],
+    [
+      "eyelash",
+      "retouch",
+      "remove"
+    ],
+    [
+      "make up",
+      "hairdo",
+      "eyelash"
+    ],
+    [
+      "retouch",
+      "remove",
+      "lashlift"
+    ],
+    [
+      "hairdo",
+      "retouch",
+      "make up"
+    ],
+    [
+      "lashlift",
+      "eyelash",
+      "retouch"
+    ],
+    [
+      "remove",
+      "retouch",
+      "hairdo"
+    ],
+    [
+      "lashlift",
+      "make up",
+      "hairdo"
+    ],
+    [
+      "remove",
+      "hairdo",
+      "eyelash"
+    ],
+    [
+      "eyelash",
+      "lashlift",
+      "make up"
+    ],
+    [
+      "remove",
+      "lashlift",
+      "retouch"
+    ],
+    [
+      "eyelash",
+      "make up",
+      "retouch"
+    ],
+    [
+      "hairdo",
+      "lashlift",
+      "eyelash"
+    ],
+    [
+      "eyelash",
+      "hairdo",
+      "retouch"
+    ],
+    [
+      "make up",
+      "remove",
+      "hairdo"
+    ],
+    [
+      "make up",
+      "lashlift",
+      "eyelash"
+    ],
+    [
+      "lashlift",
+      "hairdo",
+      "eyelash"
+    ],
+    [
+      "hairdo",
+      "retouch",
+      "eyelash"
+    ],
+    [
+      "retouch",
+      "hairdo",
+      "eyelash"
+    ],
+    [
+      "hairdo",
+      "eyelash",
+      "remove"
+    ],
+    [
+      "lashlift",
+      "make up",
+      "retouch"
+    ],
+    [
+      "remove",
+      "retouch",
+      "hairdo"
+    ],
+    [
+      "eyelash",
+      "make up",
+      "retouch"
+    ],
+    [
+      "eyelash",
+      "remove",
+      "lashlift"
+    ],
+    [
+      "make up",
+      "lashlift",
+      "retouch"
+    ],
+    [
+      "remove",
+      "lashlift",
+      "eyelash"
+    ],
+    [
+      "eyelash",
+      "lashlift",
+      "retouch"
+    ],
+    [
+      "remove",
+      "make up",
+      "retouch"
+    ],
+    [
+      "retouch",
+      "hairdo",
+      "eyelash"
+    ],
+    [
+      "remove",
+      "eyelash",
+      "retouch"
+    ],
+    [
+      "eyelash",
+      "remove",
+      "lashlift"
+    ],
+    [
+      "lashlift",
+      "retouch",
+      "eyelash"
+    ],
+    [
+      "lashlift",
+      "make up",
+      "retouch"
+    ],
+    [
+      "lashlift",
+      "remove",
+      "make up"
+    ],
+    [
+      "eyelash",
+      "remove",
+      "lashlift"
+    ],
+    [
+      "remove",
+      "lashlift",
+      "retouch"
+    ],
+    [
+      "make up",
+      "eyelash",
+      "lashlift"
+    ],
+    [
+      "hairdo",
+      "eyelash",
+      "make up"
+    ],
+    [
+      "hairdo",
+      "eyelash",
+      "remove"
+    ],
+    [
+      "make up",
+      "retouch",
+      "eyelash"
+    ],
+    [
+      "make up",
+      "hairdo",
+      "remove"
+    ],
+    [
+      "make up",
+      "lashlift",
+      "remove"
+    ],
+    [
+      "lashlift",
+      "retouch",
+      "hairdo"
+    ],
+    [
+      "retouch",
+      "remove",
+      "eyelash"
+    ],
+    [
+      "nail art",
+      "eyelash"
+    ],
+    [
+      "make up",
+      "hairdo",
+      "lashlift"
+    ],
+    [
+      "retouch",
+      "make up",
+      "lashlift"
+    ],
+    [
+      "lashlift",
+      "make up",
+      "hairdo"
+    ],
+    [
+      "nail art",
+      "eyelash"
+    ],
+    [
+      "retouch",
+      "make up",
+      "hairdo"
+    ],
+    [
+      "nail art",
+      "remove"
+    ],
+    [
+      "eyelash",
+      "retouch",
+      "make up"
+    ],
+    [
+      "hairdo",
+      "make up",
+      "retouch"
+    ],
+    [
+      "lashlift",
+      "hairdo",
+      "eyelash"
+    ],
+    [
+      "hairdo",
+      "lashlift",
+      "eyelash"
+    ],
+    [
+      "eyelash",
+      "remove",
+      "lashlift"
+    ],
+    [
+      "make up",
+      "remove",
+      "hairdo"
+    ],
+    [
+      "lashlift",
+      "eyelash",
+      "hairdo"
+    ],
+    [
+      "make up",
+      "lashlift",
+      "eyelash"
+    ],
+    [
+      "retouch",
+      "make up",
+      "eyelash"
+    ],
+    [
+      "eyelash",
+      "remove",
+      "retouch"
+    ],
+    [
+      "lashlift",
+      "retouch",
+      "remove"
+    ],
+    [
+      "retouch",
+      "remove",
+      "eyelash"
+    ],
+    [
+      "hairdo",
+      "make up",
+      "lashlift"
+    ],
+    [
+      "retouch",
+      "lashlift",
+      "hairdo"
+    ],
+    [
+      "make up",
+      "hairdo",
+      "eyelash"
+    ],
+    [
+      "make up",
+      "lashlift",
+      "remove"
+    ],
+    [
+      "remove",
+      "make up",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "remove"
+    ],
+    [
+      "remove",
+      "make up",
+      "hairdo"
+    ],
+    [
+      "hairdo",
+      "lashlift",
+      "eyelash"
+    ],
+    [
+      "nail art",
+      "remove"
+    ],
+    [
+      "eyelash",
+      "lashlift",
+      "retouch"
+    ],
+    [
+      "remove",
+      "lashlift",
+      "eyelash"
+    ],
+    [
+      "lashlift",
+      "eyelash",
+      "hairdo"
+    ],
+    [
+      "make up",
+      "retouch",
+      "remove"
+    ],
+    [
+      "eyelash",
+      "lashlift",
+      "remove"
+    ],
+    [
+      "eyelash",
+      "make up",
+      "remove"
+    ],
+    [
+      "eyelash",
+      "remove",
+      "retouch"
+    ],
+    [
+      "eyelash",
+      "remove",
+      "hairdo"
+    ],
+    [
+      "eyelash",
+      "hairdo",
+      "lashlift"
+    ],
+    [
+      "retouch",
+      "eyelash",
+      "make up"
+    ],
+    [
+      "retouch",
+      "hairdo",
+      "remove"
+    ],
+    [
+      "hairdo",
+      "make up",
+      "lashlift"
+    ],
+    [
+      "hairdo",
+      "retouch",
+      "remove"
+    ],
+    [
+      "eyelash",
+      "make up",
+      "retouch"
+    ],
+    [
+      "make up",
+      "lashlift",
+      "eyelash"
+    ],
+    [
+      "lashlift",
+      "retouch",
+      "make up"
+    ],
+    [
+      "nail art",
+      "eyelash"
+    ],
+    [
+      "hairdo",
+      "eyelash",
+      "remove"
+    ],
+    [
+      "remove",
+      "make up",
+      "retouch"
+    ],
+    [
+      "remove",
+      "lashlift",
+      "hairdo"
+    ],
+    [
+      "lashlift",
+      "eyelash",
+      "retouch"
+    ],
+    [
+      "lashlift",
+      "remove",
+      "eyelash"
+    ],
+    [
+      "retouch",
+      "eyelash",
+      "remove"
+    ],
+    [
+      "hairdo",
+      "remove",
+      "make up"
+    ],
+    [
+      "remove",
+      "retouch",
+      "eyelash"
+    ],
+    [
+      "make up",
+      "eyelash",
+      "lashlift"
+    ],
+    [
+      "eyelash",
+      "remove",
+      "lashlift"
+    ],
+    [
+      "remove",
+      "hairdo",
+      "retouch"
+    ],
+    [
+      "eyelash",
+      "lashlift",
+      "make up"
+    ],
+    [
+      "eyelash",
+      "remove",
+      "retouch"
+    ],
+    [
+      "retouch",
+      "hairdo",
+      "eyelash"
+    ],
+    [
+      "retouch",
+      "lashlift",
+      "eyelash"
+    ],
+    [
+      "retouch",
+      "eyelash",
+      "hairdo"
+    ],
+    [
+      "nail art",
+      "eyelash"
+    ],
+    [
+      "eyelash",
+      "hairdo",
+      "remove"
+    ],
+    [
+      "retouch",
+      "make up",
+      "lashlift"
+    ],
+    [
+      "retouch",
+      "lashlift",
+      "make up"
+    ],
+    [
+      "nail art",
+      "eyelash"
+    ],
+    [
+      "eyelash",
+      "remove",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "remove"
+    ],
+    [
+      "eyelash",
+      "remove",
+      "retouch"
+    ],
+    [
+      "retouch",
+      "lashlift",
+      "remove"
+    ],
+    [
+      "remove",
+      "hairdo",
+      "make up"
+    ],
+    [
+      "make up",
+      "hairdo",
+      "retouch"
+    ],
+    [
+      "retouch",
+      "hairdo",
+      "lashlift"
+    ],
+    [
+      "make up",
+      "remove",
+      "lashlift"
+    ],
+    [
+      "retouch",
+      "remove",
+      "hairdo"
+    ],
+    [
+      "eyelash",
+      "retouch",
+      "lashlift"
+    ],
+    [
+      "retouch",
+      "make up",
+      "remove"
+    ],
+    [
+      "lashlift",
+      "remove",
+      "hairdo"
+    ],
+    [
+      "lashlift",
+      "hairdo",
+      "eyelash"
+    ],
+    [
+      "retouch",
+      "hairdo",
+      "remove"
+    ],
+    [
+      "lashlift",
+      "make up",
+      "eyelash"
+    ],
+    [
+      "remove",
+      "eyelash",
+      "lashlift"
+    ],
+    [
+      "hairdo",
+      "make up",
+      "retouch"
+    ],
+    [
+      "hairdo",
+      "remove",
+      "lashlift"
+    ],
+    [
+      "remove",
+      "lashlift",
+      "make up"
+    ],
+    [
+      "nail art",
+      "remove"
+    ],
+    [
+      "lashlift",
+      "remove",
+      "hairdo"
+    ],
+    [
+      "eyelash",
+      "make up",
+      "remove"
+    ],
+    [
+      "nail art",
+      "remove"
+    ],
+    [
+      "eyelash",
+      "hairdo",
+      "retouch"
+    ],
+    [
+      "eyelash",
+      "make up",
+      "hairdo"
+    ],
+    [
+      "retouch",
+      "lashlift",
+      "hairdo"
+    ],
+    [
+      "make up",
+      "remove",
+      "lashlift"
+    ],
+    [
+      "eyelash",
+      "retouch",
+      "make up"
+    ],
+    [
+      "eyelash",
+      "hairdo",
+      "remove"
+    ],
+    [
+      "eyelash",
+      "retouch",
+      "make up"
+    ],
+    [
+      "eyelash",
+      "retouch",
+      "make up"
+    ],
+    [
+      "remove",
+      "hairdo",
+      "retouch"
+    ],
+    [
+      "remove",
+      "hairdo",
+      "retouch"
+    ],
+    [
+      "eyelash",
+      "hairdo",
+      "make up"
+    ],
+    [
+      "hairdo",
+      "make up",
+      "eyelash"
+    ],
+    [
+      "lashlift",
+      "remove",
+      "hairdo"
+    ],
+    [
+      "eyelash",
+      "remove",
+      "make up"
+    ],
+    [
+      "make up",
+      "hairdo",
+      "lashlift"
+    ],
+    [
+      "lashlift",
+      "eyelash",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "eyelash"
+    ]
+  ],
+  "one_hot_encoded": {
+    "eyelash": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true
+    ],
+    "hairdo": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "lashlift": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false
+    ],
+    "make up": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false
+    ],
+    "nail art": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "press on": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "remove": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "retouch": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "frequent_itemsets": [
+    {
+      "itemsets": [
+        "remove"
+      ],
+      "support": 0.5545454545454546
+    },
+    {
+      "itemsets": [
+        "retouch"
+      ],
+      "support": 0.4431818181818182
+    },
+    {
+      "itemsets": [
+        "nail art"
+      ],
+      "support": 0.42045454545454547
+    },
+    {
+      "itemsets": [
+        "eyelash"
+      ],
+      "support": 0.3659090909090909
+    },
+    {
+      "itemsets": [
+        "make up"
+      ],
+      "support": 0.2840909090909091
+    },
+    {
+      "itemsets": [
+        "hairdo"
+      ],
+      "support": 0.27954545454545454
+    },
+    {
+      "itemsets": [
+        "lashlift"
+      ],
+      "support": 0.2772727272727273
+    },
+    {
+      "itemsets": [
+        "nail art",
+        "remove"
+      ],
+      "support": 0.2545454545454545
+    },
+    {
+      "itemsets": [
+        "press on",
+        "remove"
+      ],
+      "support": 0.18181818181818182
+    },
+    {
+      "itemsets": [
+        "nail art",
+        "press on"
+      ],
+      "support": 0.18181818181818182
+    },
+    {
+      "itemsets": [
+        "nail art",
+        "press on",
+        "remove"
+      ],
+      "support": 0.18181818181818182
+    },
+    {
+      "itemsets": [
+        "press on"
+      ],
+      "support": 0.18181818181818182
+    },
+    {
+      "itemsets": [
+        "remove",
+        "retouch"
+      ],
+      "support": 0.16818181818181818
+    },
+    {
+      "itemsets": [
+        "nail art",
+        "retouch"
+      ],
+      "support": 0.16136363636363638
+    },
+    {
+      "itemsets": [
+        "eyelash",
+        "remove"
+      ],
+      "support": 0.1431818181818182
+    },
+    {
+      "itemsets": [
+        "eyelash",
+        "lashlift"
+      ],
+      "support": 0.1340909090909091
+    },
+    {
+      "itemsets": [
+        "eyelash",
+        "retouch"
+      ],
+      "support": 0.12727272727272726
+    },
+    {
+      "itemsets": [
+        "eyelash",
+        "make up"
+      ],
+      "support": 0.12272727272727273
+    },
+    {
+      "itemsets": [
+        "eyelash",
+        "hairdo"
+      ],
+      "support": 0.12272727272727273
+    },
+    {
+      "itemsets": [
+        "hairdo",
+        "remove"
+      ],
+      "support": 0.12045454545454545
+    },
+    {
+      "itemsets": [
+        "make up",
+        "retouch"
+      ],
+      "support": 0.1159090909090909
+    },
+    {
+      "itemsets": [
+        "make up",
+        "remove"
+      ],
+      "support": 0.11363636363636363
+    },
+    {
+      "itemsets": [
+        "hairdo",
+        "make up"
+      ],
+      "support": 0.10454545454545454
+    },
+    {
+      "itemsets": [
+        "hairdo",
+        "retouch"
+      ],
+      "support": 0.10454545454545454
+    },
+    {
+      "itemsets": [
+        "lashlift",
+        "remove"
+      ],
+      "support": 0.10227272727272728
+    },
+    {
+      "itemsets": [
+        "lashlift",
+        "make up"
+      ],
+      "support": 0.1
+    },
+    {
+      "itemsets": [
+        "hairdo",
+        "lashlift"
+      ],
+      "support": 0.1
+    }
+  ],
+  "association_rules_raw": [
+    {
+      "antecedents": [
+        "eyelash"
+      ],
+      "consequents": [
+        "hairdo"
+      ],
+      "antecedent_support": 0.3659090909090909,
+      "consequent_support": 0.27954545454545454,
+      "support": 0.12272727272727273,
+      "confidence": 0.33540372670807456,
+      "lift": 1.1998182093622178,
+      "relationship": "Strong"
+    },
+    {
+      "antecedents": [
+        "hairdo"
+      ],
+      "consequents": [
+        "eyelash"
+      ],
+      "antecedent_support": 0.27954545454545454,
+      "consequent_support": 0.3659090909090909,
+      "support": 0.12272727272727273,
+      "confidence": 0.43902439024390244,
+      "lift": 1.1998182093622178,
+      "relationship": "Strong"
+    },
+    {
+      "antecedents": [
+        "lashlift"
+      ],
+      "consequents": [
+        "eyelash"
+      ],
+      "antecedent_support": 0.2772727272727273,
+      "consequent_support": 0.3659090909090909,
+      "support": 0.1340909090909091,
+      "confidence": 0.48360655737704916,
+      "lift": 1.3216576723347928,
+      "relationship": "Strong"
+    },
+    {
+      "antecedents": [
+        "eyelash"
+      ],
+      "consequents": [
+        "lashlift"
+      ],
+      "antecedent_support": 0.3659090909090909,
+      "consequent_support": 0.2772727272727273,
+      "support": 0.1340909090909091,
+      "confidence": 0.36645962732919257,
+      "lift": 1.3216576723347928,
+      "relationship": "Strong"
+    },
+    {
+      "antecedents": [
+        "make up"
+      ],
+      "consequents": [
+        "eyelash"
+      ],
+      "antecedent_support": 0.2840909090909091,
+      "consequent_support": 0.3659090909090909,
+      "support": 0.12272727272727273,
+      "confidence": 0.43199999999999994,
+      "lift": 1.1806211180124222,
+      "relationship": "Strong"
+    },
+    {
+      "antecedents": [
+        "eyelash"
+      ],
+      "consequents": [
+        "make up"
+      ],
+      "antecedent_support": 0.3659090909090909,
+      "consequent_support": 0.2840909090909091,
+      "support": 0.12272727272727273,
+      "confidence": 0.33540372670807456,
+      "lift": 1.1806211180124224,
+      "relationship": "Strong"
+    },
+    {
+      "antecedents": [
+        "remove"
+      ],
+      "consequents": [
+        "eyelash"
+      ],
+      "antecedent_support": 0.5545454545454546,
+      "consequent_support": 0.3659090909090909,
+      "support": 0.1431818181818182,
+      "confidence": 0.2581967213114754,
+      "lift": 0.7056307911617962,
+      "relationship": "Weak"
+    },
+    {
+      "antecedents": [
+        "eyelash"
+      ],
+      "consequents": [
+        "remove"
+      ],
+      "antecedent_support": 0.3659090909090909,
+      "consequent_support": 0.5545454545454546,
+      "support": 0.1431818181818182,
+      "confidence": 0.391304347826087,
+      "lift": 0.7056307911617962,
+      "relationship": "Weak"
+    },
+    {
+      "antecedents": [
+        "retouch"
+      ],
+      "consequents": [
+        "eyelash"
+      ],
+      "antecedent_support": 0.4431818181818182,
+      "consequent_support": 0.3659090909090909,
+      "support": 0.12727272727272726,
+      "confidence": 0.28717948717948716,
+      "lift": 0.7848383500557413,
+      "relationship": "Weak"
+    },
+    {
+      "antecedents": [
+        "eyelash"
+      ],
+      "consequents": [
+        "retouch"
+      ],
+      "antecedent_support": 0.3659090909090909,
+      "consequent_support": 0.4431818181818182,
+      "support": 0.12727272727272726,
+      "confidence": 0.34782608695652173,
+      "lift": 0.7848383500557413,
+      "relationship": "Weak"
+    },
+    {
+      "antecedents": [
+        "lashlift"
+      ],
+      "consequents": [
+        "hairdo"
+      ],
+      "antecedent_support": 0.2772727272727273,
+      "consequent_support": 0.27954545454545454,
+      "support": 0.1,
+      "confidence": 0.36065573770491804,
+      "lift": 1.290150606424097,
+      "relationship": "Strong"
+    },
+    {
+      "antecedents": [
+        "hairdo"
+      ],
+      "consequents": [
+        "lashlift"
+      ],
+      "antecedent_support": 0.27954545454545454,
+      "consequent_support": 0.2772727272727273,
+      "support": 0.1,
+      "confidence": 0.35772357723577236,
+      "lift": 1.290150606424097,
+      "relationship": "Strong"
+    },
+    {
+      "antecedents": [
+        "make up"
+      ],
+      "consequents": [
+        "hairdo"
+      ],
+      "antecedent_support": 0.2840909090909091,
+      "consequent_support": 0.27954545454545454,
+      "support": 0.10454545454545454,
+      "confidence": 0.36799999999999994,
+      "lift": 1.316422764227642,
+      "relationship": "Strong"
+    },
+    {
+      "antecedents": [
+        "hairdo"
+      ],
+      "consequents": [
+        "make up"
+      ],
+      "antecedent_support": 0.27954545454545454,
+      "consequent_support": 0.2840909090909091,
+      "support": 0.10454545454545454,
+      "confidence": 0.37398373983739835,
+      "lift": 1.316422764227642,
+      "relationship": "Strong"
+    },
+    {
+      "antecedents": [
+        "remove"
+      ],
+      "consequents": [
+        "hairdo"
+      ],
+      "antecedent_support": 0.5545454545454546,
+      "consequent_support": 0.27954545454545454,
+      "support": 0.12045454545454545,
+      "confidence": 0.21721311475409835,
+      "lift": 0.7770225243236039,
+      "relationship": "Weak"
+    },
+    {
+      "antecedents": [
+        "hairdo"
+      ],
+      "consequents": [
+        "remove"
+      ],
+      "antecedent_support": 0.27954545454545454,
+      "consequent_support": 0.5545454545454546,
+      "support": 0.12045454545454545,
+      "confidence": 0.43089430894308944,
+      "lift": 0.7770225243236039,
+      "relationship": "Weak"
+    },
+    {
+      "antecedents": [
+        "retouch"
+      ],
+      "consequents": [
+        "hairdo"
+      ],
+      "antecedent_support": 0.4431818181818182,
+      "consequent_support": 0.27954545454545454,
+      "support": 0.10454545454545454,
+      "confidence": 0.2358974358974359,
+      "lift": 0.8438607462997707,
+      "relationship": "Weak"
+    },
+    {
+      "antecedents": [
+        "hairdo"
+      ],
+      "consequents": [
+        "retouch"
+      ],
+      "antecedent_support": 0.27954545454545454,
+      "consequent_support": 0.4431818181818182,
+      "support": 0.10454545454545454,
+      "confidence": 0.37398373983739835,
+      "lift": 0.8438607462997707,
+      "relationship": "Weak"
+    },
+    {
+      "antecedents": [
+        "lashlift"
+      ],
+      "consequents": [
+        "make up"
+      ],
+      "antecedent_support": 0.2772727272727273,
+      "consequent_support": 0.2840909090909091,
+      "support": 0.1,
+      "confidence": 0.36065573770491804,
+      "lift": 1.2695081967213113,
+      "relationship": "Strong"
+    },
+    {
+      "antecedents": [
+        "make up"
+      ],
+      "consequents": [
+        "lashlift"
+      ],
+      "antecedent_support": 0.2840909090909091,
+      "consequent_support": 0.2772727272727273,
+      "support": 0.1,
+      "confidence": 0.352,
+      "lift": 1.2695081967213113,
+      "relationship": "Strong"
+    },
+    {
+      "antecedents": [
+        "remove"
+      ],
+      "consequents": [
+        "lashlift"
+      ],
+      "antecedent_support": 0.5545454545454546,
+      "consequent_support": 0.2772727272727273,
+      "support": 0.10227272727272728,
+      "confidence": 0.18442622950819673,
+      "lift": 0.6651437785541521,
+      "relationship": "Weak"
+    },
+    {
+      "antecedents": [
+        "lashlift"
+      ],
+      "consequents": [
+        "remove"
+      ],
+      "antecedent_support": 0.2772727272727273,
+      "consequent_support": 0.5545454545454546,
+      "support": 0.10227272727272728,
+      "confidence": 0.36885245901639346,
+      "lift": 0.6651437785541521,
+      "relationship": "Weak"
+    },
+    {
+      "antecedents": [
+        "remove"
+      ],
+      "consequents": [
+        "make up"
+      ],
+      "antecedent_support": 0.5545454545454546,
+      "consequent_support": 0.2840909090909091,
+      "support": 0.11363636363636363,
+      "confidence": 0.20491803278688522,
+      "lift": 0.721311475409836,
+      "relationship": "Weak"
+    },
+    {
+      "antecedents": [
+        "make up"
+      ],
+      "consequents": [
+        "remove"
+      ],
+      "antecedent_support": 0.2840909090909091,
+      "consequent_support": 0.5545454545454546,
+      "support": 0.11363636363636363,
+      "confidence": 0.39999999999999997,
+      "lift": 0.721311475409836,
+      "relationship": "Weak"
+    },
+    {
+      "antecedents": [
+        "make up"
+      ],
+      "consequents": [
+        "retouch"
+      ],
+      "antecedent_support": 0.2840909090909091,
+      "consequent_support": 0.4431818181818182,
+      "support": 0.1159090909090909,
+      "confidence": 0.408,
+      "lift": 0.9206153846153846,
+      "relationship": "Weak"
+    },
+    {
+      "antecedents": [
+        "retouch"
+      ],
+      "consequents": [
+        "make up"
+      ],
+      "antecedent_support": 0.4431818181818182,
+      "consequent_support": 0.2840909090909091,
+      "support": 0.1159090909090909,
+      "confidence": 0.26153846153846155,
+      "lift": 0.9206153846153846,
+      "relationship": "Weak"
+    },
+    {
+      "antecedents": [
+        "nail art"
+      ],
+      "consequents": [
+        "press on"
+      ],
+      "antecedent_support": 0.42045454545454547,
+      "consequent_support": 0.18181818181818182,
+      "support": 0.18181818181818182,
+      "confidence": 0.43243243243243246,
+      "lift": 2.3783783783783785,
+      "relationship": "Strong"
+    },
+    {
+      "antecedents": [
+        "press on"
+      ],
+      "consequents": [
+        "nail art"
+      ],
+      "antecedent_support": 0.18181818181818182,
+      "consequent_support": 0.42045454545454547,
+      "support": 0.18181818181818182,
+      "confidence": 1.0,
+      "lift": 2.3783783783783785,
+      "relationship": "Strong"
+    },
+    {
+      "antecedents": [
+        "nail art"
+      ],
+      "consequents": [
+        "remove"
+      ],
+      "antecedent_support": 0.42045454545454547,
+      "consequent_support": 0.5545454545454546,
+      "support": 0.2545454545454545,
+      "confidence": 0.6054054054054053,
+      "lift": 1.091714665485157,
+      "relationship": "Strong"
+    },
+    {
+      "antecedents": [
+        "remove"
+      ],
+      "consequents": [
+        "nail art"
+      ],
+      "antecedent_support": 0.5545454545454546,
+      "consequent_support": 0.42045454545454547,
+      "support": 0.2545454545454545,
+      "confidence": 0.4590163934426229,
+      "lift": 1.091714665485157,
+      "relationship": "Strong"
+    },
+    {
+      "antecedents": [
+        "nail art"
+      ],
+      "consequents": [
+        "retouch"
+      ],
+      "antecedent_support": 0.42045454545454547,
+      "consequent_support": 0.4431818181818182,
+      "support": 0.16136363636363638,
+      "confidence": 0.3837837837837838,
+      "lift": 0.865973665973666,
+      "relationship": "Weak"
+    },
+    {
+      "antecedents": [
+        "retouch"
+      ],
+      "consequents": [
+        "nail art"
+      ],
+      "antecedent_support": 0.4431818181818182,
+      "consequent_support": 0.42045454545454547,
+      "support": 0.16136363636363638,
+      "confidence": 0.36410256410256414,
+      "lift": 0.865973665973666,
+      "relationship": "Weak"
+    },
+    {
+      "antecedents": [
+        "remove"
+      ],
+      "consequents": [
+        "press on"
+      ],
+      "antecedent_support": 0.5545454545454546,
+      "consequent_support": 0.18181818181818182,
+      "support": 0.18181818181818182,
+      "confidence": 0.32786885245901637,
+      "lift": 1.80327868852459,
+      "relationship": "Strong"
+    },
+    {
+      "antecedents": [
+        "press on"
+      ],
+      "consequents": [
+        "remove"
+      ],
+      "antecedent_support": 0.18181818181818182,
+      "consequent_support": 0.5545454545454546,
+      "support": 0.18181818181818182,
+      "confidence": 1.0,
+      "lift": 1.8032786885245902,
+      "relationship": "Strong"
+    },
+    {
+      "antecedents": [
+        "remove"
+      ],
+      "consequents": [
+        "retouch"
+      ],
+      "antecedent_support": 0.5545454545454546,
+      "consequent_support": 0.4431818181818182,
+      "support": 0.16818181818181818,
+      "confidence": 0.30327868852459017,
+      "lift": 0.6843211433375368,
+      "relationship": "Weak"
+    },
+    {
+      "antecedents": [
+        "retouch"
+      ],
+      "consequents": [
+        "remove"
+      ],
+      "antecedent_support": 0.4431818181818182,
+      "consequent_support": 0.5545454545454546,
+      "support": 0.16818181818181818,
+      "confidence": 0.37948717948717947,
+      "lift": 0.6843211433375367,
+      "relationship": "Weak"
+    },
+    {
+      "antecedents": [
+        "nail art",
+        "remove"
+      ],
+      "consequents": [
+        "press on"
+      ],
+      "antecedent_support": 0.2545454545454545,
+      "consequent_support": 0.18181818181818182,
+      "support": 0.18181818181818182,
+      "confidence": 0.7142857142857144,
+      "lift": 3.9285714285714293,
+      "relationship": "Strong"
+    },
+    {
+      "antecedents": [
+        "nail art",
+        "press on"
+      ],
+      "consequents": [
+        "remove"
+      ],
+      "antecedent_support": 0.18181818181818182,
+      "consequent_support": 0.5545454545454546,
+      "support": 0.18181818181818182,
+      "confidence": 1.0,
+      "lift": 1.8032786885245902,
+      "relationship": "Strong"
+    },
+    {
+      "antecedents": [
+        "press on",
+        "remove"
+      ],
+      "consequents": [
+        "nail art"
+      ],
+      "antecedent_support": 0.18181818181818182,
+      "consequent_support": 0.42045454545454547,
+      "support": 0.18181818181818182,
+      "confidence": 1.0,
+      "lift": 2.3783783783783785,
+      "relationship": "Strong"
+    },
+    {
+      "antecedents": [
+        "nail art"
+      ],
+      "consequents": [
+        "press on",
+        "remove"
+      ],
+      "antecedent_support": 0.42045454545454547,
+      "consequent_support": 0.18181818181818182,
+      "support": 0.18181818181818182,
+      "confidence": 0.43243243243243246,
+      "lift": 2.3783783783783785,
+      "relationship": "Strong"
+    },
+    {
+      "antecedents": [
+        "remove"
+      ],
+      "consequents": [
+        "nail art",
+        "press on"
+      ],
+      "antecedent_support": 0.5545454545454546,
+      "consequent_support": 0.18181818181818182,
+      "support": 0.18181818181818182,
+      "confidence": 0.32786885245901637,
+      "lift": 1.80327868852459,
+      "relationship": "Strong"
+    },
+    {
+      "antecedents": [
+        "press on"
+      ],
+      "consequents": [
+        "nail art",
+        "remove"
+      ],
+      "antecedent_support": 0.18181818181818182,
+      "consequent_support": 0.2545454545454545,
+      "support": 0.18181818181818182,
+      "confidence": 1.0,
+      "lift": 3.928571428571429,
+      "relationship": "Strong"
+    }
+  ],
+  "association_rules": [
+    {
+      "antecedents": [
+        "press on"
+      ],
+      "consequents": [
+        "nail art"
+      ],
+      "antecedent_support": 0.18181818181818182,
+      "consequent_support": 0.42045454545454547,
+      "support": 0.18181818181818182,
+      "confidence": 1.0,
+      "lift": 2.3783783783783785,
+      "relationship": "Strong"
+    },
+    {
+      "antecedents": [
+        "nail art"
+      ],
+      "consequents": [
+        "remove"
+      ],
+      "antecedent_support": 0.42045454545454547,
+      "consequent_support": 0.5545454545454546,
+      "support": 0.2545454545454545,
+      "confidence": 0.6054054054054053,
+      "lift": 1.091714665485157,
+      "relationship": "Strong"
+    },
+    {
+      "antecedents": [
+        "press on"
+      ],
+      "consequents": [
+        "remove"
+      ],
+      "antecedent_support": 0.18181818181818182,
+      "consequent_support": 0.5545454545454546,
+      "support": 0.18181818181818182,
+      "confidence": 1.0,
+      "lift": 1.8032786885245902,
+      "relationship": "Strong"
+    },
+    {
+      "antecedents": [
+        "nail art",
+        "remove"
+      ],
+      "consequents": [
+        "press on"
+      ],
+      "antecedent_support": 0.2545454545454545,
+      "consequent_support": 0.18181818181818182,
+      "support": 0.18181818181818182,
+      "confidence": 0.7142857142857144,
+      "lift": 3.9285714285714293,
+      "relationship": "Strong"
+    },
+    {
+      "antecedents": [
+        "nail art",
+        "press on"
+      ],
+      "consequents": [
+        "remove"
+      ],
+      "antecedent_support": 0.18181818181818182,
+      "consequent_support": 0.5545454545454546,
+      "support": 0.18181818181818182,
+      "confidence": 1.0,
+      "lift": 1.8032786885245902,
+      "relationship": "Strong"
+    },
+    {
+      "antecedents": [
+        "press on",
+        "remove"
+      ],
+      "consequents": [
+        "nail art"
+      ],
+      "antecedent_support": 0.18181818181818182,
+      "consequent_support": 0.42045454545454547,
+      "support": 0.18181818181818182,
+      "confidence": 1.0,
+      "lift": 2.3783783783783785,
+      "relationship": "Strong"
+    },
+    {
+      "antecedents": [
+        "press on"
+      ],
+      "consequents": [
+        "nail art",
+        "remove"
+      ],
+      "antecedent_support": 0.18181818181818182,
+      "consequent_support": 0.2545454545454545,
+      "support": 0.18181818181818182,
+      "confidence": 1.0,
+      "lift": 3.928571428571429,
+      "relationship": "Strong"
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "transactions_list": [
+    [
+      "eyelash",
+      "nail art"
+    ],
+    [
+      "nail art",
+      "eyelash"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "remove",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "remove",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "hairdo",
+      "lashlift",
+      "eyelash"
+    ],
+    [
+      "nail art",
+      "lashlift"
+    ],
+    [
+      "nail art",
+      "eyelash"
+    ],
+    [
+      "make up",
+      "hairdo"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "nail art",
+      "press on",
+      "remove"
+    ],
+    [
+      "eyelash",
+      "remove",
+      "make up"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "lashlift",
+      "retouch",
+      "remove"
+    ],
+    [
+      "nail art",
+      "remove",
+      "press on"
+    ],
+    [
+      "nail art",
+      "remove",
+      "press on"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ],
+    [
+      "nail art",
+      "retouch"
+    ]
+  ],
+  "one_hot_encoded": {
+    "eyelash": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "hairdo": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "lashlift": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "make up": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "nail art": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    "press on": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false
+    ],
+    "remove": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "retouch": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  "frequent_itemsets": [
+    {
+      "support": 0.8,
+      "itemsets": 

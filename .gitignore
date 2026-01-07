@@ -1,0 +1,14 @@
+# Abaikan folder environment python
+venv/
+env/
+.env
+
+# Abaikan sampah python
+__pycache__/
+*.pyc
+
+# Abaikan sampah sistem
+.DS_Store
+
+# PENTING: Karena kita build lokal, folder 'dist' JANGAN dimasukkan ke sini.
+# Kita MAU folder 'dist' ikut ter-upload.
