@@ -1,14 +1,15 @@
-# Abaikan folder environment python
+# Folder Environment (Pakai titik atau tidak, kita sikat semua)
 venv/
+.venv/
 env/
 .env
 
-# Abaikan sampah python
+# Folder Sampah Python yang sering muncul sendiri
 __pycache__/
 *.pyc
+Lib/
+Scripts/
+instance/
 
-# Abaikan sampah sistem
+# System Files
 .DS_Store
-
-# PENTING: Karena kita build lokal, folder 'dist' JANGAN dimasukkan ke sini.
-# Kita MAU folder 'dist' ikut ter-upload.
