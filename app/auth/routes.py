@@ -5,8 +5,11 @@ from ..models import Users
 from ..extensions import db, blacklist
 from . import auth_bp
 
-# Route Login
-@auth_bp.route('/login', methods=['POST'])
+# ==========================================
+# 1. ROUTE LOGIN
+# ==========================================
+# strict_slashes=False -> Mencegah Error 405 jika ada slash berlebih
+@auth_bp.route('/login', methods=['POST'], strict_slashes=False)
 def login():
     data = request.json or {}
     username = data.get('username')
@@ -15,7 +18,6 @@ def login():
     user = Users.query.filter_by(username=username).first()
 
     if user and check_password_hash(user.password, password):
-        # ⬇⬇⬇  PENTING: identity DIKIRIM SEBAGAI DICT, BUKAN json.dumps(...)
         identity_payload = {
             "user_id": user.id,
             "username": user.username,
@@ -26,16 +28,20 @@ def login():
 
     return jsonify({"msg": "Invalid credentials"}), 401
 
-# Route Logout
-@auth_bp.route('/logout', methods=['POST'])
+# ==========================================
+# 2. ROUTE LOGOUT
+# ==========================================
+@auth_bp.route('/logout', methods=['POST'], strict_slashes=False)
 @jwt_required()
 def logout():
     jti = get_jwt()["jti"]
     blacklist.add(jti)
     return jsonify({"msg": "Logged out successfully"}), 200
 
-# Route Register
-@auth_bp.route('/register', methods=['POST'])
+# ==========================================
+# 3. ROUTE REGISTER
+# ==========================================
+@auth_bp.route('/register', methods=['POST'], strict_slashes=False)
 def register():
     data = request.json or {}
 
@@ -60,11 +66,13 @@ def register():
 
     return jsonify({"msg": "User registered successfully"}), 201
 
-# Route GET login user
-@auth_bp.route('/me', methods=['GET'])
+# ==========================================
+# 4. ROUTE CEK USER (ME)
+# ==========================================
+@auth_bp.route('/me', methods=['GET'], strict_slashes=False)
 @jwt_required()
 def get_current_user():
-    current = get_jwt_identity()  # sekarang sudah DICT, tidak perlu json.loads
+    current = get_jwt_identity()
     user = Users.query.filter_by(username=current["username"]).first()
 
     if not user:
@@ -78,3 +86,34 @@ def get_current_user():
         "telp": user.telp,
         "role": user.role
     }), 200
+
+# ==========================================
+# 5. ROUTE DARURAT (RESET ADMIN)
+# ==========================================
+# Akses ini lewat browser untuk memperbaiki "Incorrect Password"
+@auth_bp.route('/reset-admin-paksa', methods=['GET'], strict_slashes=False)
+def reset_admin_paksa():
+    try:
+        # Hapus admin lama biar bersih
+        target_user = "admin1"
+        existing = Users.query.filter_by(username=target_user).first()
+        if existing:
+            db.session.delete(existing)
+            db.session.commit()
+        
+        # Buat admin baru. Password: 123
+        # Enkripsi dilakukan langsung di server Railway agar valid
+        new_admin = Users(
+            username=target_user,
+            password=generate_password_hash("123"), 
+            nama="Admin Reset",
+            alamat="Server Railway",
+            telp="08123456",
+            role="admin"
+        )
+        db.session.add(new_admin)
+        db.session.commit()
+        
+        return jsonify({"msg": f"SUKSES! User '{target_user}' dibuat. Password: '123'"}), 200
+    except Exception as e:
+        return jsonify({"msg": f"Error: {str(e)}"}), 500
