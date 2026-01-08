@@ -1,41 +1,24 @@
 import os
-"""
-from dotenv import load_dotenv
-    
-load_dotenv()
 
 class Config:
-    SECRET_KEY = os.getenv('SECRET_KEY', 'super-secret-key')
-    SQLALCHEMY_DATABASE_URI = os.getenv('DATABASE_URL')
+    # Secret Key (Boleh ganti sembarang)
+    SECRET_KEY = os.environ.get('SECRET_KEY') or 'kunci-rahasia-sangat-aman'
+
+    # AMBIL DATA DARI RAILWAY (Variabel yang tadi kamu paste)
+    DB_HOST = os.environ.get('MYSQLHOST')
+    DB_USER = os.environ.get('MYSQLUSER')
+    DB_PASSWORD = os.environ.get('MYSQLPASSWORD')
+    DB_NAME = os.environ.get('MYSQLDATABASE')
+    DB_PORT = os.environ.get('MYSQLPORT')
+
+    # LOGIKA CERDAS:
+    # Jika variabel MYSQLHOST ada (artinya sedang di Railway), pakai MySQL.
+    # Jika tidak ada (artinya di laptop), pakai SQLite.
+    if DB_HOST:
+        SQLALCHEMY_DATABASE_URI = f"mysql+mysqlconnector://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
+    else:
+        # Fallback ke SQLite jika running di laptop tanpa setting env
+        BASE_DIR = os.path.abspath(os.path.dirname(__file__))
+        SQLALCHEMY_DATABASE_URI = 'sqlite:///' + os.path.join(BASE_DIR, 'database.db')
+
     SQLALCHEMY_TRACK_MODIFICATIONS = False
-    JWT_SECRET_KEY = os.getenv('JWT_SECRET_KEY', 'super-secret-key')
-    JWT_ACCESS_TOKEN_EXPIRES = False  # 30 menit
-    # CORS_ORIGINS = ["http://localhost:5000"]
-"""
-
-
-class Config:
-    # 1. SECRET KEY
-    # Mengambil dari Render, jika tidak ada pakai default 'rahasia-skripsi'
-    SECRET_KEY = os.getenv('SECRET_KEY', 'rahasia-skripsi-super-aman')
-
-    # 2. DATABASE CONFIGURATION (BAGIAN KRUSIAL)
-    # Logika: Cek variabel 'SQLALCHEMY_DATABASE_URI' dulu.
-    # Jika kosong, cek 'DATABASE_URL'.
-    # Jika masih kosong, PAKSA pakai 'sqlite:///skripsi.db' (Fail-safe).
-    SQLALCHEMY_DATABASE_URI = os.getenv('SQLALCHEMY_DATABASE_URI') or \
-                              os.getenv('DATABASE_URL') or \
-                              'sqlite:///skripsi.db'
-
-    # Matikan notifikasi track modifications (biar hemat memori)
-    SQLALCHEMY_TRACK_MODIFICATIONS = False
-
-    # 3. JWT CONFIGURATION
-    # Sama, ambil dari Render, jika kosong pakai default
-    JWT_SECRET_KEY = os.getenv('JWT_SECRET_KEY', 'rahasia-jwt-token-aman')
-    
-    # Token tidak akan expired (sesuai settingan kamu sebelumnya)
-    JWT_ACCESS_TOKEN_EXPIRES = False 
-
-    # (Opsional) Jika nanti butuh settingan CORS
-    # CORS_ORIGINS = ["*"]
