@@ -16,26 +16,21 @@ class Config:
 
 class Config:
     # 1. SECRET KEY
-    # Mengambil dari Render, jika tidak ada pakai default 'rahasia-skripsi'
     SECRET_KEY = os.getenv('SECRET_KEY', 'rahasia-skripsi-super-aman')
 
-    # 2. DATABASE CONFIGURATION (BAGIAN KRUSIAL)
-    # Logika: Cek variabel 'SQLALCHEMY_DATABASE_URI' dulu.
-    # Jika kosong, cek 'DATABASE_URL'.
-    # Jika masih kosong, PAKSA pakai 'sqlite:///skripsi.db' (Fail-safe).
-    SQLALCHEMY_DATABASE_URI = os.getenv('SQLALCHEMY_DATABASE_URI') or \
-                              os.getenv('DATABASE_URL') or \
-                              'sqlite:///skripsi.db'
+    # 2. DATABASE CONFIGURATION (BAGIAN KRUSIAL - UPDATE INI)
+    # Kita ambil dari env var, bisa jadi namanya MYSQL_URL atau DATABASE_URL
+    uri = os.getenv('MYSQL_URL') or os.getenv('DATABASE_URL') or 'sqlite:///skripsi.db'
 
-    # Matikan notifikasi track modifications (biar hemat memori)
+    # PERBAIKAN PENTING:
+    # Jika URL dimulai dengan 'mysql://', kita ubah jadi 'mysql+pymysql://'
+    # agar Flask bisa menggunakan driver pymysql dengan benar di Railway.
+    if uri and uri.startswith('mysql://'):
+        uri = uri.replace('mysql://', 'mysql+pymysql://', 1)
+
+    SQLALCHEMY_DATABASE_URI = uri
     SQLALCHEMY_TRACK_MODIFICATIONS = False
 
     # 3. JWT CONFIGURATION
-    # Sama, ambil dari Render, jika kosong pakai default
     JWT_SECRET_KEY = os.getenv('JWT_SECRET_KEY', 'rahasia-jwt-token-aman')
-    
-    # Token tidak akan expired (sesuai settingan kamu sebelumnya)
-    JWT_ACCESS_TOKEN_EXPIRES = False 
-
-    # (Opsional) Jika nanti butuh settingan CORS
-    # CORS_ORIGINS = ["*"]
+    JWT_ACCESS_TOKEN_EXPIRES = False
