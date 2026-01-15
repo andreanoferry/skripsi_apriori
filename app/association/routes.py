@@ -256,6 +256,10 @@ def _compute_steps(transactions, min_support=0.01, min_confidence=0.01):
             print(f"[ERROR] Gagal generate rules: {e}")
 
     steps_log = {
+        "parameters": {                 # keterangan min support dan confidence
+            "min_support": ms, 
+            "min_confidence": mc 
+        },
         "transactions_raw": transactions_raw,
         "transactions_list": transactions_list,
         "one_hot_encoded": df_trans.to_dict(orient="list"),
